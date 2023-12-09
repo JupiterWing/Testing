@@ -1,0 +1,930 @@
+ID,CATEGORIES,CLIENT,DELIVERY_TIME,Detail Specifications,ENABLED,MAKE, MOQ,MINIMUM_QTY_LABEL,PACKAGING_QTY,Part Code,PRICE ,SPSC_CODE,Items,UOM ,LEAD_TIME,MANUFACTURER_NAME,MANUFACTURER_PARTID,Brand,GST,HSN /SAC code,Items,Minimum Cetifications,Model,Detail Specifications,SUBCATEGORY,Material Code
+6001,HEAD PROTECTION,Cargill,,,TRUE,,5,,,OMMROSSPPEHEP0001,740,232110,Electrical resistant helmet,EA,12,-,-,Honeywell,18,90200000,Electrical resistant helmet,,Honeywell A59R20000 safety helmet ,,,
+6002,HEAD PROTECTION,Cargill,,"without vent rachet type with
+chin strap satisfies ANSI/ISEA Z89.12009 With cargill logo printed",TRUE,,10,,,OMMROSSPPEHEP0002,580,-,Hard hats,EA,12,-,-,MSA,18,90200000,Hard hats," ANSI/ISEA , IS CODE  2925 : 1984",v Gard- 500,"without vent rachet type with
+chin strap satisfies ANSI/ISEA Z89.12009 With cargill logo printed",,20000000476
+6003,HEAD PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHEP0003,278,-,,EA,12,-,-,Karam,18,90200000,," ANSI/ISEA , IS CODE  2925 : 1984","       PN 546
+EN 397:2012+A1:2012",,,
+6004,HEAD PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHEP0004,125,-,,EA,12,-,-,Udyogi,18,90200000,," ANSI/ISEA , IS CODE  2925 : 1984",Ultra Vent 7000 Series,,,
+6005,HEAD PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHEP0005,380,-,,EA,12,-,-,Udyogi,18,90200000,,,Ultra Vent 9000 Series ( HEAT PROOF),,,
+6006,FACE PROTECTION,Cargill,,"which satisfies z87+ should have antifog and anti
+scrach",TRUE,,10,,,OMMROSSPPEFAP0006,167,-,Visitor safety goggles,EA,12,-,-,MSA,18,90049090,Visitor safety goggles,EN : 166 : 2001 ,Z87+,"which satisfies z87+ should have antifog and anti
+scrach",,20000004031
+6007,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0007,100,-,,EA,12,-,-,Karam,18,90049090,,,E005,,,
+6008,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0008,158,-,,EA,12,-,-,Udyogi,,90049090,,,Twister Plus,,,
+6009,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0009,460,-,Chemical Antifog Splash goggles (Full face),EA,12,-,-,MSA,18,90049090,Chemical Antifog Splash goggles (Full face),,GIV 2300 PERSPECTA,,,20000041613
+6010,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0010,145,-,Electrical resistant Goggle,EA,12,-,-,Honeywell,18,90049090,Electrical resistant Goggle,,A800 polycarbonate lens spectacle with anti fog coating.       ,,,
+6011,FACE PROTECTION,Cargill,,"Protects face exposed to splashes, high speed flying small & medium fragments ,Also protects face against irritating mist and potentially infectious materials",TRUE,,10,,,OMMROSSPPEFAP0011,400,-,Face sheild,EA,12,-,-,UNICARE,18,39269099,Face sheild,"EN 175:1997,  EN 166:2001
+Part 1 with Plastic Visor; reaffirmed (1991), IS:8521-1977
+Part 2 with Wire-mesh Visor, IS:8521-1994",UEE 107 discontinue ,"Protects face exposed to splashes, high speed flying small & medium fragments ,Also protects face against irritating mist and potentially infectious materials",,
+6012,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0012,480,-,,EA,12,-,-,Karam,18,39269099,,,ES51,,,
+6013,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0013,260,-,,EA,12,-,-,Udyogi,18,39269099,,,FC WITH CARRIER,,,
+6014,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0014,415,-,,EA,12,-,-,Udyogi,18,39269099,,,FC 30,,,
+6015,FACE PROTECTION,Cargill,,,TRUE,,50,,,OMMROSSPPEFAP0015,75,-,Face shield for Covid,EA,12,-,-,Honywell,18,39269099,Face shield for Covid,,HONEYWELL STOP PRODUCTION OF THIS FACE SHEILD,,,
+6016,FACE PROTECTION,Cargill,,,TRUE,,1000,,,OMMROSSPPEFAP0016,1.1,-,Surgical Mask,EA,12,-,-,Any brand,5,63071010,Surgical Mask,,,,,
+6017,FACE PROTECTION,Cargill,,Hazard -Airborne Particulates,TRUE,,1000,,,OMMROSSPPEFAP0017,10,-,Disposal Mask ,EA,12,-,-,3M,5,63071010,Disposal Mask ,IS 9473,9000ING,Hazard -Airborne Particulates,,
+6018,FACE PROTECTION,Cargill,,,TRUE,,100,,,OMMROSSPPEFAP0018,65,-,Face mask for covid,EA,12,-,-,3M,12,63071010,Face mask for covid,,N 95 8210,,,
+6019,FACE PROTECTION,Cargill,,"Hazards- Airborne Particulates+ Biohazard+ Chemical Contamination+
+Gas, Vapors, Smoke",TRUE,,3,,,OMMROSSPPEFAP0019,3300,-,Half face resPirator ,EA,12,-,-,3M,12,63071010,Half face resPirator ,IS 9473 : 2002,6200 series WITH 6006 multigas cartridge ,"Hazards- Airborne Particulates+ Biohazard+ Chemical Contamination+
+Gas, Vapors, Smoke",,
+6020,FACE PROTECTION,Cargill,,,TRUE,,3,,,OMMROSSPPEFAP0020,1750,-,,EA,12,-,-,,12,63071010,,12%,6200+organic cartridge 6003 model,,,
+6021,FACE PROTECTION,Cargill,,,TRUE,,3,,,OMMROSSPPEFAP0021,2565,-,,EA,12,-,-,Venus,12,63071010,,,V-900 HFM-Siliconwith multi gas catridge ,,,
+6022,FACE PROTECTION,Cargill,,,TRUE,,3,,,OMMROSSPPEFAP0022,1170,-,,EA,12,-,-,Honeywell ,12,9020000,,,322500 Honeywell 5500 Half Mask Med Elastomer,,,
+6023,FACE PROTECTION,Cargill,,,TRUE,,4,,,OMMROSSPPEFAP0023,725,-,,EA,12,-,-,,12,9020000,,,Cartridge for organic vapors and acid vapors per pairs,,,
+6024,FACE PROTECTION,Cargill,,,TRUE,,4,,,OMMROSSPPEFAP0024,1440,-,,EA,12,-,-,,12,63071010,,,75SCL Multi gas cartridge per pair ,,,
+6025,FACE PROTECTION,Cargill,,"Hazards- Airborne Particulates+ Biohazard+ Contamination+
+Gas, Vapors, Smoke",TRUE,,2,,,OMMROSSPPEFAP0025,9200,-,Full face resPirator,EA,12,-,-,3M,12,63071010,Full face resPirator,IS 8523 : 1977,6800 series+6006,"Hazards- Airborne Particulates+ Biohazard+ Contamination+
+Gas, Vapors, Smoke",,
+6026,FACE PROTECTION,Cargill,,"MULTI PURPOSE
+CARTRIDGE MASK
+FULL FACE",TRUE,,2,,,OMMROSSPPEFAP0026,7840,-,,EA,12,-,-,VENUS,12,63071010,,,V-999-MS  WITH CATRIDGE,"MULTI PURPOSE
+CARTRIDGE MASK
+FULL FACE",,20000015815
+6027,FACE PROTECTION,Cargill,,,TRUE,,2,,,OMMROSSPPEFAP0027,14888,-,,EA,12,-,-,Honeywell ,12,63071010,,,760008AS,,,
+6028,FACE PROTECTION,Cargill,,"Hazard- Airborne Particulates+ Chemical + Contamination:
+Suggested applications: Welding, torch cutting, brazing, soldering, and
+metal pouring.",TRUE,,5,,,OMMROSSPPEFAP0028,187,-,Welding resPirator mask,EA,12,-,-,3M,12,63071010,Welding resPirator mask,"EN 140
+AS/NZS 1716:2003r",,"Hazard- Airborne Particulates+ Chemical + Contamination:
+Suggested applications: Welding, torch cutting, brazing, soldering, and
+metal pouring.",,
+6029,FACE PROTECTION,Cargill,,,TRUE,,5,,,OMMROSSPPEFAP0029,13800,-,,EA,12,-,-,Honeywell ,12$,9020000,,,760008ASW,,,
+6030,FACE PROTECTION,Cargill,,,TRUE,,5,,,OMMROSSPPEFAP0030,4428,-,,EA,12,-,-,MSA,12,9020000,,,200 LS ,,,
+6031,FACE PROTECTION,Cargill,,TO be filled with clear water ,TRUE,,5,,,OMMROSSPPEFAP0031,135,,Eye wash bottle,EA,12,-,-,Udyogi,18,39269099,Eye wash bottle,IS 10592 : 1982,EW-500  ML,TO be filled with clear water ,FAP,
+6032,EMERGENCY EQUIPMENTS,Cargill,,,TRUE,,5,,,OMMROSSPPE0032,188,,,EA,12,-,-,Unicare ,18,39269099,,,UEB 12,,FAP,
+6033,FACE PROTECTION,Cargill,,"Optical Class 1,
+4 Hard coated lens for Scratch Resistance,
+4 Lens material- 100% Polycarbonate.
+4 Lens Scale Number: 3- 1.2 (clear).
+",TRUE,,5,,,OMMROSSPPEFAP0033,140,,oversPecs,EA,12,-,-,Udyogi,18,90049090,oversPecs,EN 166:2002 & ANSI Z 87.1-2010,Edge over,"Optical Class 1,
+4 Hard coated lens for Scratch Resistance,
+4 Lens material- 100% Polycarbonate.
+4 Lens Scale Number: 3- 1.2 (clear).
+",,
+6034,FACE PROTECTION,Cargill,,,TRUE,,50,,,OMMROSSPPEFAP0034,270,,,EA,12,-,-,Unicare ,18,90049090,,,MAX OTS UEE 181,,FAP,
+6035,FACE PROTECTION,Cargill,,,TRUE,,50,,,OMMROSSPPEFAP0035,130,,,EA,12,-,-,KARAM,18,90049090,,,ES 007,,FAP,
+6036,FACE PROTECTION,Cargill,,High Impact Requirements of ANSI Z87.1 - 2010,TRUE,,10,,,OMMROSSPPEFAP0036,1080,,PrescriPtion glasses,EA,12,-,-,Udyogi,18,90049090,PrescriPtion glasses,EN 166:2002,1) HT vision 2) RX I with precription glass,High Impact Requirements of ANSI Z87.1 - 2010,FAP,20000017800
+6037,FACE PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFAP0037,1350,,,EA,12,-,-,Unicare,18,90049090,,,METEOR 9134 290,,FAP,
+6038,EAR PROTECTION,Cargill,,"Washable, Quick donning",TRUE,,100,,,OMMROSSPPEEAP0038,32,,Ear Plug Reusable,EA,12,-,-, 3M,18,40169970,Ear Plug Reusable,IS 9167 : 1979 / AS/NZS 1270 :2002Class 3,3M 1270 reusable ear plugs,"Washable, Quick donning",FAP,
+6039,EAR PROTECTION,Cargill,,,TRUE,,100,,,OMMROSSPPEEAP0039,28,,,EA,12,-,-,,18,40169970,,,Honeywell Smart fit reusable ear plug. SMF 30  ,,EAP,
+6040,EAR PROTECTION,Cargill,,,TRUE,,100,,,OMMROSSPPEEAP0040,16.5,,,EA,12,-,-,Venus,18,40169970,,,H303,,EAP,
+6041,EAR PROTECTION,Cargill,,Half Brim mounting provision must be there.,TRUE,,10,,,OMMROSSPPEEAP0041,2540,,Ear muff,EA,12,-,-,MSA,18,39269099,Ear muff,IS 9167 : 1979/ AS/NZS 1270:2002,XLS,Half Brim mounting provision must be there.,EAP,
+6042,EAR PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEEAP0042,588,,,EA,12,-,-,Honey well ,18,39269099,,,QM24+,,EAP,
+6043,EAR PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEEAP0043,268,,,EA,12,-,-,VEnus,18,39269099,,,VENUS H530,,EAP,
+6044,EAR PROTECTION,Cargill,,Emergency GI Safety Shower cum Eye Wash fountain hand operated,TRUE,,1,,,OMMROSSPPEEAP0044,7170,,Eye Wash & safety Shower,EA,12,-,-,Udyogi,18,73242900,Eye Wash & safety Shower,IS :10592:1982/ ANSI Z358.1-2014 ,6220 GI,Emergency GI Safety Shower cum Eye Wash fountain hand operated,EAP,
+6045,EAR PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEEAP0045,7350,-,,EA,12,-,-,Unicare,18,73242900,,,Lses 7 GI,,,
+6046,HAND PROTECTION,Cargill,,With CE certification/EN certification,TRUE,,144,,,OMMROSSPPEHAP0046,128,,Cut level-5 handgloves ,EA,12,-,-,Udyogi,5,61169200,Cut level-5 handgloves ,EN 388:2016 ,CUT Level 5,With CE certification/EN certification,EAP,
+6047,HAND PROTECTION,Cargill,,,TRUE,,144,,,OMMROSSPPEHAP0047,178,,,EA,12,-,-,Midas Safety Frontier,5,61169200,,,MIDAS TRACTION CUT 5 GLOVES PU COATING,,HAP,
+6048,HAND PROTECTION,Cargill,,,TRUE,,144,,,OMMROSSPPEHAP0048,183,,,EA,12,-,-,Ansell,5,61169200,,,EDGE 48-701,,HAP,
+6049,HAND PROTECTION,Cargill,,"Heat resistant cowhide leather gloves. Adapted for MIG, TIG, Arc, foundry and Argon welding.",TRUE,,5,,,OMMROSSPPEHAP0049,,,leather hand gloves (Welder Hand gloves/Heat resistance Hand gloves),EA,12,-,-,3M,18,61169200,leather hand gloves (Welder Hand gloves/Heat resistance Hand gloves),"IS 6994 : 1973/ EN 420:2003 + A1:2009; 
+Category II",Calorproof Molleton 2 discontinue by 3M,"Heat resistant cowhide leather gloves. Adapted for MIG, TIG, Arc, foundry and Argon welding.",HAP,
+6050,HAND PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHAP0050,992,,,EA,12,-,-,Honeywell ,18,61169200,,,HEAT PROOF GLOVES HONEYWELL,,HAP,
+6051,HAND PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHAP0051,132,,,EA,12,-,-,Mallcom,18,61169200,,,F524,,HAP,
+6052,HAND PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHAP0052,,,Hand sleeves cut resistant gloves - Level 5,EA,12,-,-,Ansell,5,62160090,Hand sleeves cut resistant gloves - Level 5,,required model no ,,HAP,
+6053,HAND PROTECTION,Cargill,,,TRUE,,50,,,OMMROSSPPEHAP0053,470,,,EA,12,-,-,Dupoint,5,62160090,,,,,HAP,
+6054,HAND PROTECTION,Cargill,,"protective glove against chemical risks , microorganisms risks5 fingers glove, blue translucent nitrile, lightly powered",TRUE,,,,,OMMROSSPPEHAP0054,,,Chemical hangloves  nitrile surgical ,EA,12,-,-,3M,18,40151900,Chemical hangloves  nitrile surgical , EN 420-2003 EEC EN 374-2003 E N 455-1&2 ,Ref NO: 4580081 discontinue by 3M,"protective glove against chemical risks , microorganisms risks5 fingers glove, blue translucent nitrile, lightly powered",HAP,
+6055,HAND PROTECTION,Cargill,,,TRUE,,1000,,,OMMROSSPPEHAP0055,16,,,EA,12,-,-,Ansell,18,40151900,,,MICRO-TOUCH® Nitrile N30,,HAP,
+6056,HAND PROTECTION,Cargill,,,TRUE,,1000,,,OMMROSSPPEHAP0056,15,,,EA,12,-,-,DPLK601,18,40151900,,,DPLK601,,HAP,
+6057,HAND PROTECTION,Cargill,,,TRUE,,144,,,OMMROSSPPEHAP0057,45,46181504,,EA,12,-,-,DPL NOVA55,18,40159030,,,DPL NOVA55,,,
+6058,HAND PROTECTION,Cargill,,protective glove against chemical risks and other production activities - Flock lined natural rubber gloves,TRUE,,144,,,OMMROSSPPEHAP0058,58,,Production handgloves - knitted,EA,12,-,-,Ind touch,18,40159030,Production handgloves - knitted,CE0120 EN388,MIDAS ,protective glove against chemical risks and other production activities - Flock lined natural rubber gloves,HAP,
+6059,HAND PROTECTION,Cargill,,,TRUE,,144,,,OMMROSSPPEHAP0059,68,,,EA,12,-,-,Pure Latex,18,40159030,,,Flock lined rubber gloves DPL GRANDUER ,,HAP,
+6060,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0060,1440,,Electrical hand gloves,EA,12,-,-,Honeywell,18,40159030,Electrical hand gloves,,Class 00  IIG102-0936                500 AC                      2500 AC,,HAP,
+6061,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0061,1610,,,EA,12,-,-,,18,40159030,,,Class 0    IIG105-0941                1000 AC                     5000 AC,,HAP,
+6062,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0062,2430,,,EA,12,-,-,,18,40159030,,,Class 1    IIG110-0941                7500 AC                     10000 AC,,HAP,
+6063,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0063,2915,,,EA,12,-,-,,18,40159030,,,Class 2    IIG120-0941                17500 AC                   20000 AC,,HAP,
+6064,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0064,4520,,,EA,12,-,-,,18,40159030,,,Class 3    IIG130-0941                26500 AC                   30000 AC,,HAP,
+6065,HAND PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEHAP0065,2195,,,,12,-,-,,18,40159030,,,,,HAP,20000004035
+6066,HAND PROTECTION,Cargill,,Designed for intermittent handling of dry hot objects up to 350°C / 660°F,TRUE,,5,,,OMMROSSPPEHAP0066,1380,,Heat resistant handgloves,EA,12,-,-,Mercury ansell,18,61169200,Heat resistant handgloves,"CE 0493 : EN 420:2003 + A1:2009; 
+Category II",43-113,Designed for intermittent handling of dry hot objects up to 350°C / 660°F,HAP,
+6067,HAND PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEHAP0067,650,,,EA,12,-,-,UDYOGI PALM KELVAR,18,61169200,,,UDYOGI PALM KELVAR,,HAP,
+6068,BODY PROTECTION,Cargill,,"Durable, comfortable multi-layer chemical barrier, Type 3/4/5 protection.",TRUE,,5,,,OMMROSSPPEBOP0068,1480,,Chemical Protective Suits,EA,12,-,-,Dupoint,18,62101000,Chemical Protective Suits,EN 1149-5 and AATCC 76,tychem c ,"Durable, comfortable multi-layer chemical barrier, Type 3/4/5 protection.",BOP,
+6069,BODY PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEBOP0069,17150,,,EA,12,-,-,,12,62113900,,,"Electrical safety
+
+Honeywell INSKCP8cal / INSKCL8cal arc flash kit. Consisting of FR coverall or Shirt & Pant, Balaclava Hood,
+
+Helmet with Face shield, Eyewear, Kit Bag.
+
+HSN 62034990    ",,BOP,
+6070,BODY PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEBOP0070,47000,,,EA,12,-,-,,12,62113900,,,"Honeywell INSK40cal arc flash kit. Consisting of FR coverall or Shirt & Pant, Balaclava Hood,
+
+Helmet with Face shield, Eyewear, Kit Bag.
+
+HSN 62034990
+",,BOP,
+6071,BODY PROTECTION,Cargill,,,TRUE,,5,,,OMMROSSPPEBOP0071,680,,Boiler suit,EA,12,-,-,Karam,12,,Boiler suit,CE- Category 1,PW 1201,,BOP,
+6072,BODY PROTECTION,Cargill,,Green Reflective Jacket With Cargill Logo (This Workrite vest combines flame resistance and high visibility for improved safety against heat and imrpoved visibility when working in dark conditions),TRUE,,30,,,OMMROSSPPEBOP0072,345,39264049,Green Reflective Jacket,EA,12,-,-,3M,18,39264049,Green Reflective Jacket,"ANSI/ISEA 107-2015 Class 2, Type R",Workrite 349UT70 Vest with logo both side,Green Reflective Jacket With Cargill Logo (This Workrite vest combines flame resistance and high visibility for improved safety against heat and imrpoved visibility when working in dark conditions),,
+6073,BODY PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEBOP0073,88,,,EA,12,-,-,Udyogi,18,39264049,,,,,BOP,
+6074,BODY PROTECTION,Cargill,,,TRUE,,,,,OMMROSSPPEBOP0074,315,,Orange reflective jacket with cargill LOGO,EA,12,-,-,3M tape  manufactuere relfective jacket,,39264049,Orange reflective jacket with cargill LOGO,,,,BOP,
+6075,BODY PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEBOP0075,65,,Orange reflective jacket for workers,EA,12,-,-,Any brand,18,39264049,Orange reflective jacket for workers,,,,BOP,
+6076,BODY PROTECTION,Cargill,,,TRUE,,,,,OMMROSSPPEBOP0076,245,,Welding Apron,EA,12,-,-,local make ,,39264049,Welding Apron,,,,BOP,
+6077,BODY PROTECTION,Cargill,,,TRUE,,2,,,OMMROSSPPEBOP0077,6500,,,EA,12,-,-,Karam,12,39264049,,,,,BOP,
+6078,BODY PROTECTION,Cargill,,"used widely in intense heat, fire, steam and hot liquid",TRUE,,1,,,OMMROSSPPEBOP0078,52400,,Fire man suit,EA,12,-,-,DUPONT ORIGINAL NOMEX FIRE SUIT 3 LAYER COMPLETE SET,18,62032990,Fire man suit, EN-469,,"used widely in intense heat, fire, steam and hot liquid",BOP,20000018101
+6079,FOOT PROTECTION,Cargill,,Slip Resistant+ Toe+Oil Resistant + Antistatic+ Electrical Shock,TRUE,,20,,,OMMROSSPPEFOP0079,1500,82121503,Safety shoes,EA,12,-,-,Liberty warrior - Double density,18,64029990,Safety shoes, EN-469,,Slip Resistant+ Toe+Oil Resistant + Antistatic+ Electrical Shock,,
+6080,FOOT PROTECTION,Cargill,,,TRUE,,20,,,OMMROSSPPEFOP0080,1130,,,EA,12,-,-,Microfibre- EDGE MF udyoig ,18,64029990,, EN-469,,,FOP,
+6081,FOOT PROTECTION,Cargill,,,TRUE,,20,,,OMMROSSPPEFOP0081,2350,,,EA,12,-,-,Honeywell (MODEL REQUIRED) ,18,64029990,, EN-469,MODEL KD681 SPORTY MODEL ,,FOP,
+6082,FOOT PROTECTION,Cargill,,,TRUE,,20,,,OMMROSSPPEFOP0082,1250,,,EA,12,-,-,JCB (model required) ,18,64029990,, EN-469,JCB (model required) ,,FOP,
+6083,FOOT PROTECTION,Cargill,,"leather type used for welding which should be ISI/CE/EN
+certified",TRUE,,5,,,OMMROSSPPEFOP0083,580,,Welding leg guard,EA,12,-,-,Udyogi,18,64029990,Welding leg guard, EN-469,Leg Guard,"leather type used for welding which should be ISI/CE/EN
+certified",FOP,
+6084,FOOT PROTECTION,Cargill,,Slip Resistant+ Toe+Oil Resistant +  Electrical Shock,TRUE,,10,,,OMMROSSPPEFOP0084,530,,Gum boot,EA,12,-,-,Acme,18,64029990,Gum boot,EN ISO 20345:2011 SB I  ,Product Code:SS3SOGH,Slip Resistant+ Toe+Oil Resistant +  Electrical Shock,FOP,20000007385
+6085,FOOT PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEFOP0085,430,,,EA,12,-,-,ROCKFORD UDYOGI,18,64029990,,,ROCKFORD UDYOGI,,FOP,
+6086,FALL PROTECTION,Cargill,,,TRUE,,2,,,OMMROSSPPEFLP0086,1750,,Wire rope sling,EA,12,-,-,Karam ,18,63072090,Wire rope sling,EN 795 : 2012 Type B,PN 813 4 meter length,,FLP,
+6087,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0087,3900,,Webing slings,EA,12,-,-,Karam ,18,63072090,Webing slings,EN 795 : 2012 Type B,PN806 5 meter length,,FLP,
+6088,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0088,4500,,"HORIZON TEMPORARY HORIZONTAL WEBBING
+ANCHORAGE LINE",EA,12,-,-,Karam ,18,63072090,"HORIZON TEMPORARY HORIZONTAL WEBBING
+ANCHORAGE LINE",EN 795:2012 and TS 16415:2013 Type B&C (for upto 2 users).,Horizon Pn-3000,,FLP,
+6089,FALL PROTECTION,Cargill,,Fall rated two users,TRUE,,1,,,OMMROSSPPEFLP0089,4400,,Horizon 2 Man Temporary Horizontal Rope Anchorage Line (Cross Over),EA,12,-,-,Karam,18,63072090,Horizon 2 Man Temporary Horizontal Rope Anchorage Line (Cross Over),Conforms to EN 795:2012 Type C & TS 16415 : 2013 Type C,Horizon PN 3002,Fall rated two users,FLP,
+6090,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0090,4100,,,EA,12,-,-,Udyogi,,63072090,,,HLL 20,,FLP,
+6091,FALL PROTECTION,Cargill,,Heavy Duty wire roperetractable fall arrestor,TRUE,,1,,,OMMROSSPPEFLP0091,15400,,Retractable fall arrestor,EA,12,-,-,Karam,18,63072090,Retractable fall arrestor,EN 360:2002,PCGS 15,Heavy Duty wire roperetractable fall arrestor,FLP,
+6092,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0092,35000,,,EA,12,-,-,Udyogi,18,63072090,,EN 360:2002,EDGE 25,,FLP,
+6093,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0093,6800,,,EA,12,-,-,,18,84254900,,EN 360:2002,EDGE 6,,FLP,
+6094,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0094,6200,,,EA,12,-,-,,18,84254900,,EN 360:2002,EDGE 5,,FLP,
+6095,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0095,6500,,,EA,12,-,-,,18,84254900,,EN 360:2002,EDGE 7,,FLP,
+6096,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0096,8300,,,EA,12,-,-,,18,84254900,,EN 360:2002,EDGE 10,,FLP,
+6097,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0097,9100,,,EA,12,-,-,,18,84254900,,EN 360:2002,EDGE 12,,FLP,
+6098,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0098,19800,,,EA,12,-,-,Unicare,18,84254900,,EN 360:2002,UEE806,,FLP,
+6099,FALL PROTECTION,Cargill,,Full Body Harness+Shock Absorber+2lanyard,TRUE,,1,,,OMMROSSPPEFLP0099,3650,,Full body harness and forked lanyards,EA,12,-,-,Karam ,18,84254900,Full body harness and forked lanyards,IS 3521 : 1999/ EN 361:2002,PN 23 PN 351,Full Body Harness+Shock Absorber+2lanyard,FLP,
+6100,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0100,1470,,,EA,12,-,-,Udyogi,18,84254900,,,UB 102 NM/BL 22,,FLP,
+6101,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0101,6850,,,EA,12,-,-,Unicare,18,84254900,,,UEE 298/UEE 543T,,FLP,
+6102,FALL PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEFLP0102,800,,Cross Arm Strap,EA,12,-,-,Karam,18,84254900,Cross Arm Strap,EN 795 : 2012 Type B,PN 804 1.5 ,,FLP,
+6103,EMERGENCY EQUIPMENTS,Cargill,,ESCAPE HOOD With attached Filte,TRUE,,1,,,OMMROSSPPEEME0103,7800,,Fire escaPe hood,EA,12,-,-,Cease fire,18,62113900,Fire escaPe hood,"EN 403, CE0336",13332,ESCAPE HOOD With attached Filte,EME,
+6104,EMERGENCY EQUIPMENTS,Cargill,,Self-contained open-circuit compressed air breathing apparatus with full face mask,TRUE,,1,,,OMMROSSPPEEME0104,77600,,SCBA_Self Contained Breathing Appratus.,EA,12,-,-,MSA,18,902000,SCBA_Self Contained Breathing Appratus.,EN 137-2006,"MSA MSA AirXpress 2 Self-Contained Positive Pressure
+Compressed Air Breathing Apparatus Set complete with
+AutoMaXX DV, 3S PS MaXX Face Mask & 6.8 liter / 300
+bar Carbon Composite Cylinder (HSN Code: 90200000)
+
+arte ",Self-contained open-circuit compressed air breathing apparatus with full face mask,EME,
+6105,EMERGENCY EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPEEME0105,78000,,,EA,12,-,-,Drager,18,902000,,,"PSS 7000 Drager PSS 7000 back plate BG7000T TCS. LDV, MASK CFK cylinder with techno valve",,EME,
+6106,EMERGENCY EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPEEME0106,98000,,,EA,12,-,-,3M,18,902000,,,Scott™ Air-Pak™ X3 Pro ,,EME,
+6107,EMERGENCY EQUIPMENTS,Cargill,,Conforms to all relevant CE norms.,TRUE,,1,,,OMMROSSPPEEME0107,38800,,Rescue KIT- Fall Protection,EA,12,-,-,KARAM,18,902000,Rescue KIT- Fall Protection,,PN 652,Conforms to all relevant CE norms.,EME,
+6108,EMERGENCY EQUIPMENTS,Cargill,,"Overlay net, Containment net of 1 mm diameter twin, mesh size 15-22 mm",TRUE,,,,,OMMROSSPPEEME0108,,,Industrial Safety nets,EA,12,-,-,3M,18,,Industrial Safety nets,"ANSI A10.11, OSHA 1926.105, 
+OSHA 1926.502, IS11057-1984","3M™ DBI-SALA® Sinco™ Adjust-A-Net™ Personnel Net 4100103, 1 EA disontinue","Overlay net, Containment net of 1 mm diameter twin, mesh size 15-22 mm",EME,
+6109,EMERGENCY EQUIPMENTS,Cargill,,,TRUE,,,,,OMMROSSPPEEME0109,10500,,,EA,12,-,-,KARAM,18,902000,,, PN 0252105(D),,EME,
+6110,EMERGENCY EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPEEME0110,4500,,,EA,12,-,-,Udyogi,18,902000,,,SN 003,,EME,
+6111,CONFINED SPACE EQUIPMENTS,Cargill,,,TRUE,,,,,OMMROSSPPECSE0111,,,TriPods,EA,12,-,-,MSA,18,902000,TriPods,,PN 800 wrong model mentioned,,CSE,
+6112,CONFINED SPACE EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPECSE0112,43800,,,EA,12,-,-,Honey well,18,902000,,,MN10 Falcon SRL MP 10m  G FI  ,,CSE,
+6113,CONFINED SPACE EQUIPMENTS,Cargill,,Airwent blowers,TRUE,,1,,,OMMROSSPPECSE0113,21500,,Confined sPace blowers,EA,12,-,-,Udyogi,18,84145930,Confined sPace blowers,,,Airwent blowers,CSE,20000017771
+6114,CONFINED SPACE EQUIPMENTS,Cargill,,"The 1 to 4 gas detector reliably detects combustible gases and vapours, as well as O2, CO, H2S, NO2 and SO2. ",TRUE,,1,,,OMMROSSPPECSE0114,50000,,Gas Dectors ,EA,12,-,-,Drager,18,90279090,Gas Dectors ,ATEX/CE/IECEx,"Drager X am 2500 ,
+Drager Pac 5500 (o2) ","The 1 to 4 gas detector reliably detects combustible gases and vapours, as well as O2, CO, H2S, NO2 and SO2. ",CSE,
+6115,CONFINED SPACE EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPECSE0115,63800,,Gas Dectors ,EA,12,-,-,MSA,18,90279090,Gas Dectors ,,ALTAIR® 4XR,,CSE,
+6116,CONFINED SPACE EQUIPMENTS,Cargill,,,TRUE,,1,,,OMMROSSPPECSE0116,54000,,Gas Dectors ,EA,12,-,-,Honey Well,18,90279090,Gas Dectors ,,Honeywell BW™ Ultra,,CSE,
+6117,CONFINED SPACE EQUIPMENTS,Cargill,,UDYOGI MAKE PORTABLE SHOWER MODEL EW350,TRUE,,2,,,OMMROSSPPE0189,5800,,PORTABLE SHOWER,EA,12,-,-,UDYOGI MAKE PORTABLE SHOWER ,18,73242900,PORTABLE SHOWER,CE,UDYOGI MAKE PORTABLE SHOWER ,UDYOGI MAKE PORTABLE SHOWER MODEL EW350,,20000002399
+6118,EMERGENCY EQUIPMENTS,Cargill,,"PLASTIC Bin 600(L)x
+400(B)x120(H
+)mm (Box 12) USER FOR STORE ",TRUE,,5,,,OMMROSSPPE0190,1210,,BINS,EA,12,-,-,NILKAMAL,18,39269010,BINS,CE,BINS,"PLASTIC Bin 600(L)x
+400(B)x120(H
+)mm (Box 12) USER FOR STORE ",BOP,
+6119,EMERGENCY EQUIPMENTS,Cargill,,"Bin 600(L)x
+400(B)x120(
+H)mm (Box 8)  USER FOR STORE ",TRUE,,5,,,OMMROSSPPE0191,965,,BINS,EA,12,-,-,NILKAMAL,18,39269010,BINS,CE,BINS,"Bin 600(L)x
+400(B)x120(
+H)mm (Box 8)  USER FOR STORE ",EAP,
+6120,EMERGENCY EQUIPMENTS,Cargill,,"Bin 600(L)x
+400(B)x120(
+H)mm (Box 6  USER FOR STORE ",TRUE,,5,,,OMMROSSPPE0192,885,,BINS,EA,12,-,-,NILKAMAL,18,39269010,BINS,CE,BINS,"Bin 600(L)x
+400(B)x120(
+H)mm (Box 6  USER FOR STORE ",EME,
+6121,EMERGENCY EQUIPMENTS,Cargill,,"Bin
+400(L)x300(B
+)x270(H)mm
+(Box 4)  USER FOR STORE ",TRUE,,5,,,OMMROSSPPE0193,895,,BINS,EA,12,-,-,NILKAMAL,18,39269010,BINS,CE,BINS,"Bin
+400(L)x300(B
+)x270(H)mm
+(Box 4)  USER FOR STORE ",BOP,
+6122,EMERGENCY EQUIPMENTS,Cargill,,BARRICATION TAPE LENGTH 150 METER THICKNESS 0.5 MIL,TRUE,,20,,,OMMROSSPPE0194,180,,BARRICATION TAPE,EA,12,-,-,STANDARD,18,39199090,BARRICATION TAPE,CE,BARRICATION TAPE,BARRICATION TAPE LENGTH 150 METER THICKNESS 0.5 MIL,EME,20000001136
+6123,EMERGENCY EQUIPMENTS,Cargill,,"Product Code : FRP WALL MOUNTED
+BOX FOR SCBA SET
+FRP Wall Mounted Box for SCBA
+Set
+Breathing Apparatus Storage
+Box/Cabinet
+Specification:
+• Made out of FRP material.
+• Designed & developed as per the
+latest market trends.
+• Both 30mins and 45mins SCBA set
+can be kept inside this cabinet.
+• Two partitions provided. One for
+keeping face mask and other for
+keeping cylinder and back plate.
+• Color: Blue.
+• Size of the box: 910 mm x 490 mm
+x 250 mm.
+• Thickness: 3 mm.
+• Weight: 12 kgs approx.
+• With completely Hitlon lining''s
+",TRUE,,,,,OMEMESSPPE0195,8125,OMMROSSPPECSE0122,SCBA,EA,12,-,-,FRP WALL MOUNTED BOX FOR SCBA SET,18,90200000,SCBA,CE,SCBA,"Product Code : FRP WALL MOUNTED
+BOX FOR SCBA SET
+FRP Wall Mounted Box for SCBA
+Set
+Breathing Apparatus Storage
+Box/Cabinet
+Specification:
+• Made out of FRP material.
+• Designed & developed as per the
+latest market trends.
+• Both 30mins and 45mins SCBA set
+can be kept inside this cabinet.
+• Two partitions provided. One for
+keeping face mask and other for
+keeping cylinder and back plate.
+• Color: Blue.
+• Size of the box: 910 mm x 490 mm
+x 250 mm.
+• Thickness: 3 mm.
+• Weight: 12 kgs approx.
+• With completely Hitlon lining''s
+",,20000015705
+6124,FACE PROTECTION,Cargill,,"MULTI PURPOSE
+CARTRIDGE MASK
+HALF FACE MODEL VENUS V500 HALF FACE MASK ",TRUE,,,,,OMMROSSPPEFAP0196,560,46181504,HALF FACE MASK,EA,12,-,-,HALF FACE MASK VENUS MAKE ,12,90200000,HALF FACE MASK,EN,HALF FACE MASK,"MULTI PURPOSE
+CARTRIDGE MASK
+HALF FACE MODEL VENUS V500 HALF FACE MASK ",,20000015816
+6125,FOOT PROTECTION,Cargill,,ALLEN COOPER SAFETY SHOES MODEL AC1265.,TRUE,,,,,OMMROSSPPEFOP0197,1400,,"Ladies allen
+cooper shoes 5 No.",EA,12,-,-,"Ladies allen
+cooper shoes",18,64035119,"Ladies allen
+cooper shoes 5 No.",ISI,"Ladies allen
+cooper shoes 5 No.",ALLEN COOPER SAFETY SHOES MODEL AC1265.,EME,
+6126,BODY PROTECTION,Cargill,,Refractive jacket belt type (only belt type),TRUE,,,,,OMMROSSPPEBOP0200,135,,Refractive jacket,EA,12,-,-,Refractive jacket,5,62011390,Refractive jacket,CE,Refractive jacket belt type,Refractive jacket belt type (only belt type),,
+6127,HAND PROTECTION,Cargill,,udyogi cut 3 reistant hand gloves MODEL HPU3 ,TRUE,,,,,OMMROSSPPEHAP0201,110,,MAXICUT RESISTANT HANDGLOVES,EA,12,-,-,Udyogi,5,61161000,MAXICUT RESISTANT HANDGLOVES,CE,HAND GLOVES CUT LEVEL 3 MAKE UDYOGI OR MARVEL CE APPROVED,udyogi cut 3 reistant hand gloves MODEL HPU3 ,EME,20000034949
+6128,FACE PROTECTION,Cargill,,"Karam head
+loop Dust
+mask FFP1",TRUE,,,,,OMMROSSPPEFAP0202,8.8,,"Karam head
+loop Dust
+mask",EA,12,-,-,Karam,5,62104090,"Karam head
+loop Dust
+mask",ISI,KARAM RFH01GREY,"Karam head
+loop Dust
+mask FFP1",,
+6129,FOOT PROTECTION,Cargill,,"SAFETY SHOES
+MAKE ACME TRAPEZ MODEL TRAPEZ",TRUE,,,,,OMMROSSPPEFOP0203,1375,,Safety Shoes,EA,12,-,-,Acme,18,64034000,Safety Shoes,ISI,ACME TRAPEZ,"SAFETY SHOES
+MAKE ACME TRAPEZ MODEL TRAPEZ",EME,
+6130,HAND PROTECTION,Cargill,,"COTTON HAND
+GLOVES WHITE MAKE UDYOGI PDS60",TRUE,,,,,OMMROSSPPEHAP0204,15,,"COTTON HAND
+GLOVES WHITE",EA,12,-,-,UDYOGI,18,40151900,"COTTON HAND
+GLOVES WHITE",ISI,PDS60,"COTTON HAND
+GLOVES WHITE MAKE UDYOGI PDS60",,20000001014
+6131,FACE PROTECTION,Cargill,,"VENUS FFP2
+nose mask MODEL V420SL",TRUE,,,,,OMMROSSPPEFAP0205,35,,nose mask,EA,12,-,-,VENUS,5,90200000,nose mask,CE ISI,VENUS V420SL,"VENUS FFP2
+nose mask MODEL V420SL",,
+6132,EAR PROTECTION,Cargill,,Ear muffs- Udyogi ET30,TRUE,,,,,OMMROSSPPE0206,268,,Ear muffs,EA,12,-,-,UDYOGI,18,"39269099
+",Ear muffs,CE ISI,ET30 ,Ear muffs- Udyogi ET30,,
+6133,EMERGENCY EQUIPMENTS,Cargill,,"LOTO GROUP LOCK
+BOX 7 HOLES or small size ",TRUE,,,,,OMMROSSPPE0214,800,,LOTO,EA,12,-,-,LOTO SAFETY HOUSE,18,73084000,LOTO,CE,GROUP BOX 7 HOLES,"LOTO GROUP LOCK
+BOX 7 HOLES or small size ",BOP,20000018419
+6134,EMERGENCY EQUIPMENTS,Cargill,,"FIRE DOOR FIRE DOOR Make-Tata pravesh,
+2400MMx1200mm Fire Certification - CBRI
+DOOR TYPE - FIRE SHUTTER TYPE SINGLE
+WITHOUT INSTALLATION",TRUE,,,,,OMMROSSPPE0215,27334,-,FIRE DOOR,EA,12,-,-,TATA PRAVESH,18,85319000,FIRE DOOR,CE ISI,TATA PRAVESH FIRE DOOR,"FIRE DOOR FIRE DOOR Make-Tata pravesh,
+2400MMx1200mm Fire Certification - CBRI
+DOOR TYPE - FIRE SHUTTER TYPE SINGLE
+WITHOUT INSTALLATION",,20000003752
+6135,FACE PROTECTION,Cargill,,BEARD COVER MANUAL MAKING,TRUE,,,,,OMMROSSPPEFAP0216,3.3,,BEARD COVER,EA,12,-,-,INDIAN,5,62103000,BEARD COVER,ISI,BEARD COVER,BEARD COVER MANUAL MAKING,BOP,20000017681
+6136,EMERGENCY EQUIPMENTS,Cargill,,"WIND SOCK
+PARASUIT
+MATERIAL 6FEET complete set ",TRUE,,,,,OMMROSSPPE0217,3200,,WIND SOCK,EA,12,-,-,IMPORTED,18,70199090,WIND SOCK,ISI,WIND SOCK,"WIND SOCK
+PARASUIT
+MATERIAL 6FEET complete set ",,20000004017
+6137,BODY PROTECTION,Cargill,,"RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI MAKE UDYOGI MODEL RS",TRUE,,,,,OMMROSSPPEBOP0218,21450,,RESCUE STRETCHER,EA,12,-,-,UDYOGI,18,94029090,RESCUE STRETCHER,CE,"RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI","RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI MAKE UDYOGI MODEL RS",,20000004017
+6138,BODY PROTECTION,Cargill,,"Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8",TRUE,,,,,OMMROSSPPEBOP0219,905,,Kidney Tray,EA,12,-,-,INDIAN,18,90189099,Kidney Tray,CE,"Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8","Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8",,
+6139,EMERGENCY EQUIPMENTS,Cargill,,"HANDHELD
+MEGAPHONE
+AM
+MX Handheld Battery Operated Megaphone with
+Microphone, Siren, Handheld Megaphone AM 21SD+
+Indoor, Outdoor PA System (60 W)",TRUE,,,,,OMMROSSPPE0220,5000,,"HANDHELD
+MEGAPHONE
+AM
+",EA,12,-,-,AHUJA,18,85182100,"HANDHELD
+MEGAPHONE
+AM
+",CE,AHUJA MAKE PA SYSTEM,"HANDHELD
+MEGAPHONE
+AM
+MX Handheld Battery Operated Megaphone with
+Microphone, Siren, Handheld Megaphone AM 21SD+
+Indoor, Outdoor PA System (60 W)",BOP,
+6140,EMERGENCY EQUIPMENTS,Cargill,,"EMERGENCY
+TORCH PELICAN 3315
+LIGHT
+PELICAN
+MADE IN US",TRUE,,,,,OMMROSSPPE0221,6200,,"EMERGENCY
+TORCH
+LIGHT
+",EA,12,-,-,"PELICAN
+MADE IN US",18,85131010,"EMERGENCY
+TORCH
+LIGHT
+",OSHA CE,PELICAN MODEL 3315 WITHOUT BATTERY ,"EMERGENCY
+TORCH PELICAN 3315
+LIGHT
+PELICAN
+MADE IN US",BOP,
+6141,FOOT PROTECTION,Cargill,,"White high care shoes- MAKE JCB CLEANPRO
+Size-10",TRUE,,,,,OMMROSSPPEFOP0222,1600,,Safety Shoes,EA,12,-,-,JCB,18,64034000,Safety Shoes,ISI,CLEANPRO MAKE JCB,"White high care shoes- MAKE JCB CLEANPRO
+Size-10",BOP,
+6142,FOOT PROTECTION,Cargill,,Safety shoe for Clean Room MAKE UDYOGI,TRUE,,,,,OMMROSSPPEFOP0225,1450,,Safety Shoes,EA,12,-,-,UDYOGI,18,64034000,Safety Shoes,CE,UDYOIG CLEAN PRO SHOES,Safety shoe for Clean Room MAKE UDYOGI,EME,20000007396
+6143,FOOT PROTECTION,Cargill,,JCB SAFETY SHOES Model : Vent  ,TRUE,,,,,OMMROSSPPEFOP0226,1700,,Safety Shoes,EA,12,-,-,JCB,18,64029990,Safety Shoes,ISI,JCB MAKE MODEL VENT ,JCB SAFETY SHOES Model : Vent  ,EME,
+6144,EMERGENCY EQUIPMENTS,Cargill,,First aid Box -5000 Series Model MEDIC4000,TRUE,,5,,,OMMROSSPPE0231,2600,,FIRST AID BOX,EA,12,-,-,THADANI,12,30065000,FIRST AID BOX,ISI,MEDIC 5000 SERIES,First aid Box -5000 Series Model MEDIC4000,EME,
+6145,EMERGENCY EQUIPMENTS,Cargill,,FIRE EXN ABC TYPE ISI MARKED 1 KG,TRUE,,1,,,OMMROSSPPE0232,880,,FIRE,EA,12,-,-,SAFETY ONE,18,84241000,FIRE,ISI,MAKE SAFETY ONE ISI MARKED,FIRE EXN ABC TYPE ISI MARKED 1 KG,EME,
+6146,BODY PROTECTION,Cargill,,"Streacher
+SR – FS
+make Udyog",TRUE,,,,,OMMROSSPPEBOP0233,4000,,STRETCHER,EA,12,-,-,UDYOGI,18,94029090,STRETCHER,CE,"Streacher
+SR – FS
+make Udyog","Streacher
+SR – FS
+make Udyog",EME,
+6147,EMERGENCY EQUIPMENTS,Cargill,,Hazard Warning Tape length 100 meter thiickness 0.5 mil,TRUE,,,,,OMMROSSPPE0234,125,,Warning Tape,EA,12,-,-,IMPORTED,18,39199090,Warning Tape,CE,Hazard Warning Tape,Hazard Warning Tape length 100 meter thiickness 0.5 mil,,
+6148,EMERGENCY EQUIPMENTS,Cargill,,"3M anti skid Tape
+610B 2"" x 60 feet",TRUE,,,,,OMMROSSPPE0235,3380,,anti skid Tape,EA,12,-,-,3M,18,39199090,anti skid Tape,CE,"3M anti skid Tape
+610B 2"" x 60 feet","3M anti skid Tape
+610B 2"" x 60 feet",,
+6149,EMERGENCY EQUIPMENTS,Cargill,,"BARRICATION TAPE
+WHITE 300M length, thickness 0.5 mil",TRUE,,,,,OMMROSSPPE0236,350,,BARRICATION TAPE,EA,12,-,-,BARRICATION TAPE,18,"39199090
+",BARRICATION TAPE,CE,"BARRICATION TAPE 300 meter 
+WHITE 300M","BARRICATION TAPE
+WHITE 300M length, thickness 0.5 mil",BOP,20000001136
+6150,EMERGENCY EQUIPMENTS,Cargill,,BARRICATION TAPE,TRUE,,,,,OMMROSSPPE0237,170,,BARRICATION TAPE,EA,12,-,-,BARRICATION TAPE,18,"39199090
+",BARRICATION TAPE,CE,"BARRICATION TAPE length 125 meter thicckness 0.5 mil
+",BARRICATION TAPE,,20000001136
+6151,EMERGENCY EQUIPMENTS,Cargill,,LIGHT BARRIER LS 97,TRUE,,,,,OMMROSSPPE0238,2226,,BARRIER,EA,12,-,-,AXNOY,18,"85389000
+",BARRIER,CE,LIGHT BARRIER LS 97 MAKE AXNOY ROAD SAFETY ,LIGHT BARRIER LS 97,BOP,20000009451
+6152,HAND PROTECTION,Cargill,,"Hand Gloves
+(Disposable) make rubberex 6 mil weight 7 gram ",TRUE,,,,,OMMROSSPPEHAP0239,9.6,,Hand Gloves,EA,12,-,-,RUBBEREX,18,"40159030
+",Hand Gloves,CE,MODEL RUBBREX 6 MIL THICHNESS GREEN MADE IN MALASIA,"Hand Gloves
+(Disposable) make rubberex 6 mil weight 7 gram ",,
+6153,BODY PROTECTION,Cargill,,"Washable
+Apron COTTON MATERI : COTTON 100% fabric THICKNESS 220 GSM ISI MARKED ",TRUE,,,,,OMMROSSPPEBOP0240,780,,"Washable
+Apron",EA,12,-,-,INDIAN,18,"42034010
+","Washable
+Apron",CE,"Washable
+Apron","Washable
+Apron COTTON MATERI : COTTON 100% fabric THICKNESS 220 GSM ISI MARKED ",,
+6154,EMERGENCY EQUIPMENTS,Cargill,,Spary Bottle Size 1 Lit ,TRUE,,,,,OMMROSSPPE0242,50,,Spary Bottle,EA,12,-,-,INDIAN,18,39261019,Spary Bottle,CE,Spary Bottle,Spary Bottle Size 1 Lit ,,
+6155,EMERGENCY EQUIPMENTS,Cargill,,pin in type MCB lock,TRUE,,,,,OMMROSSPPE0243,90,,MCB lock,EA,12,-,-,SAFETY HOUSE,18,73084000,MCB lock,CE,pin in type MCB lock,pin in type MCB lock,EME,
+6156,EMERGENCY EQUIPMENTS,Cargill,,"Anti Skid Tape 2 INCH X 50 m p Secure Fmyb210 Floor Marking Tape 
+Yellow & Black 2inch X 60 m",TRUE,,,,,OMMROSSPPE0244,850,,TAPE,EA,12,-,-,UDYOGI,18,68053000,TAPE,CE,Anti Skid Tape,"Anti Skid Tape 2 INCH X 50 m p Secure Fmyb210 Floor Marking Tape 
+Yellow & Black 2inch X 60 m",,
+6157,FOOT PROTECTION,Cargill,,JCB Electron safety shoes ,TRUE,,,,,OMMROSSPPEFOP0245,1435,,SAFETY SHOES,EA,12,-,-,JCB,18,64029990,SAFETY SHOES,ISI,SAFETY SHOES - JCB Electron,JCB Electron safety shoes ,,
+6158,FOOT PROTECTION,Cargill,,JCB SAFETY SHOES MODEL Excavator ,TRUE,,,,,OMMROSSPPEFOP0246,1347,,SAFETY SHOES,EA,12,-,-,JCB,18,64029990,SAFETY SHOES,ISI,SAFETY SHOES - JCB Excavator,JCB SAFETY SHOES MODEL Excavator ,,
+6159,EMERGENCY EQUIPMENTS,Cargill,,"Karam make PCGS06(PN112) Retractable wire rope fall arrester block plastic casing with galvanized stell
+cable 6 MTR. length with PN 162",TRUE,,,,,OMMROSSPPE0247,10888,,WIRE ROPE BLOCK,EA,12,-,-,UDYOGI,18,84254900,WIRE ROPE BLOCK,CE,WIRE ROPE BLOCK,"Karam make PCGS06(PN112) Retractable wire rope fall arrester block plastic casing with galvanized stell
+cable 6 MTR. length with PN 162",,
+6160,CONFINED SPACE EQUIPMENTS,Cargill,,MSA PRIMA HYDROGEN GAS DETECTOR ,TRUE,,,,,OMMROSSPPECSE0248,113000,,"Hydrogen Gas
+Detector",EA,12,-,-,MSA,18,90271000,"Hydrogen Gas
+Detector",CE,MSA PRIMA,MSA PRIMA HYDROGEN GAS DETECTOR ,,
+6161,EMERGENCY EQUIPMENTS,Cargill,,MOUNTING PLATE MAKE UDYOGI ,TRUE,,,,,OMMROSSPPE0249,4000,,Mounting Plate,EA,12,-,-,MSA,18,83024190,Mounting Plate,CE,Mounting Plate,MOUNTING PLATE MAKE UDYOGI ,,
+6162,EMERGENCY EQUIPMENTS,Cargill,,HOOTER CUM FLASHER ,TRUE,,,,,OMMROSSPPE0250,17400,,Hooter cum Flasher,EA,12,-,-,MSA,18,85311090,Hooter cum Flasher,CE,"Hooter cum Flasher
+Gland Based L00421",HOOTER CUM FLASHER ,EME,
+6163,HAND PROTECTION,Cargill,," Acid/alkali MAKE DPL  0.42 mm Thickness Nitrile rubber Flocklined glove,
+ 380 mm Length,Green colours.
+ EN388:2016 - 4101X 
+EN ISO 374-1: 2016 /Type A - AJKLMNOPST
+resistance
+hand - PREMIUM (LONG) 15"" 
+Long 
+82S.042.38.G08",TRUE,,,,,OMMROSSPPEHAP0251,230,,HAND GLOVES,EA,12,-,-,DPL,18,42032910,HAND GLOVES,ISI MARK,DPL HAND GLOVES 15 INCH LONG CHEMICAL RESISTANT GLOVES," Acid/alkali MAKE DPL  0.42 mm Thickness Nitrile rubber Flocklined glove,
+ 380 mm Length,Green colours.
+ EN388:2016 - 4101X 
+EN ISO 374-1: 2016 /Type A - AJKLMNOPST
+resistance
+hand - PREMIUM (LONG) 15"" 
+Long 
+82S.042.38.G08",,
+6164,FACE PROTECTION,Cargill,,"Chemical
+goggle MAKE UD 39 UDYOGI",TRUE,,,,,OMMROSSPPEFAP0252,110,,SAFETY GOGGLE,EA,12,-,-,UDYOGI,18,"90049090
+",SAFETY GOGGLE,CE,"Chemical
+goggle","Chemical
+goggle MAKE UD 39 UDYOGI",,
+6165,EMERGENCY EQUIPMENTS,Cargill,,5 ltr Sanitizer Can MAKE LIFEBUOY,TRUE,,,,,OMMROSSPPE0253,750.4,,HAND SANITIZER,EA,12,-,-,LIFEBUOY,18,"38089400
+",HAND SANITIZER,CE,5LIT,5 ltr Sanitizer Can MAKE LIFEBUOY,,20000043120
+6166,FALL PROTECTION,Cargill,,SLING UDYOGI MAKE 1 METER WEBBING ANCHOR WEB SLING 1 METER,TRUE,,,,,OMMROSSPPEFLP0254,280,,SLING,EA,12,-,-,UDYOGI,18,"84254900
+",SLING,CE,SLING UDYOGI MAKE 1 METER,SLING UDYOGI MAKE 1 METER WEBBING ANCHOR WEB SLING 1 METER,BOP,
+6167,FALL PROTECTION,Cargill,,SLING UDYOGI MAKE 2 METER WEBBING ANCHOR WEB SLING 2 METER ,TRUE,,,,,OMMROSSPPEFLP0255,350,,SLING,EA,12,-,-,UDYOGI,18,"84254900
+",SLING,CE,SLING UDYOGI MAKE 2 METER,SLING UDYOGI MAKE 2 METER WEBBING ANCHOR WEB SLING 2 METER ,BOP,
+6168,EMERGENCY EQUIPMENTS,Cargill,,"MINI BLOCK Webbing type retractable fall arresrer
+WIdth of webbing: 47mm Length: 2.2 mtrs Weight: 1kg
+Fitted with inertia breaking system
+In built shock absorber, snap hook and karabiner
+Standard: Conforms to EN 360:2002 oldpo no
+1000479659 arc item",TRUE,,,,,OMMROSSPPE0256,5500,,Block,EA,12,-,-,UDYOGI,18,"84254900
+",Block,CE,Mini Block,"MINI BLOCK Webbing type retractable fall arresrer
+WIdth of webbing: 47mm Length: 2.2 mtrs Weight: 1kg
+Fitted with inertia breaking system
+In built shock absorber, snap hook and karabiner
+Standard: Conforms to EN 360:2002 oldpo no
+1000479659 arc item",,
+6169,EMERGENCY EQUIPMENTS,Cargill,,SPILL KIT MAKE UDYOGI OIL OR CHEMICAL SIZE 70 LIT MODEL CEDK70,TRUE,,,,,OMMROSSPPE0258,9800,,SPILL KIT,EA,12,-,-,UDYOGI,18,39269099,SPILL KIT,CE,SPILL KIT MAKE UDYOGI,SPILL KIT MAKE UDYOGI OIL OR CHEMICAL SIZE 70 LIT MODEL CEDK70,BOP,
+6170,BODY PROTECTION,Cargill,,MOBILZE FOLDBALE STRETCHER MAKE UDYOGI MODEL RSFS,TRUE,,,,,OMMROSSPPEBOP0259,4200,,STRETCHER,EA,12,-,-,UDYOGI,18,94029090,STRETCHER,CE,MOBILZE FOLDBALE STRETCHER,MOBILZE FOLDBALE STRETCHER MAKE UDYOGI MODEL RSFS,BOP,
+6171,EMERGENCY EQUIPMENTS,Cargill,,"EMERGENCY TORCH LIGHT PELICAN MADE IN USA
+PELICAN Safety flashlight , Safety torch Torch",TRUE,,,,,OMMROSSPPE0260,5800,,EMERGENCY TORCH LIGHT,EA,12,-,-,PELICAN,18,85131010,EMERGENCY TORCH LIGHT,CE,"EMERGENCY TORCH LIGHT PELICAN MADE IN USA
+PELICAN Safety flashlight , Safety torch Torch","EMERGENCY TORCH LIGHT PELICAN MADE IN USA
+PELICAN Safety flashlight , Safety torch Torch",BOP,
+6172,EMERGENCY EQUIPMENTS,Cargill,,Venticare MAKE ambu bag,TRUE,,,,,OMMROSSPPE0261,1600,,AMBU BAG,EA,12,-,-,VENTICARE,12,90189099,AMBU BAG,CE,Venticare ambu bag,Venticare MAKE ambu bag,,
+6173,EMERGENCY EQUIPMENTS,Cargill,,MAKE SFE RESCUE POLE 45 KV WITH HOOK,TRUE,,,,,OMMROSSPPE0262,9800,,RESCUE POLE HOOK,EA,12,-,-,UDYOGI,18,85366990,RESCUE POLE HOOK,CE,Venticare ambu bag,MAKE SFE RESCUE POLE 45 KV WITH HOOK,,
+6174,EMERGENCY EQUIPMENTS,Cargill,,MSA make S-CAP ESCAPE HOODfirst,TRUE,,,,,OMMROSSPPEEME0263,45000,,ESCAPE HOOD,EA,12,-,-,MSA,12,90200000,ESCAPE HOOD,CE,MSA make S-CAP ESCAPE HOODfirst,MSA make S-CAP ESCAPE HOODfirst,,
+6175,EMERGENCY EQUIPMENTS,Cargill,,WHEEL CHAIR MAKE INDIAN WITH WARRANTY 1 YEAR ,TRUE,,,,,OMMROSSPPEEME0264,6200,,WHEEL CHAIR,EA,12,-,-,MSA,5,87139090,WHEEL CHAIR,CE,WHEEL CHAIR,WHEEL CHAIR MAKE INDIAN WITH WARRANTY 1 YEAR ,,
+6176,FACE PROTECTION,Cargill,,"Safety
+goggles, Over
+Spec. Karam",TRUE,,,,,OMMROSSPPEFAP0265,130,,oversPecs,EA,12,-,-,KARAM,18,"90049090
+",oversPecs,CE,"Safety
+goggles, Over
+Spec. Karam","Safety
+goggles, Over
+Spec. Karam",,
+6177,EMERGENCY EQUIPMENTS,Cargill,,"Alcohol
+Detector Make Sentech",TRUE,,,,,OMMROSSPPE0266,28620,46181504,"Alcohol
+Detector",EA,12,-,-,SENTECH KOREA,18,"90279090
+","Alcohol
+Detector",CE,IBlow10,"Alcohol
+Detector Make Sentech",,
+6178,FACE PROTECTION,Cargill,,Eye lids MAKE UDYOGI SHOWER ACCESSORIES MODEL 7904 EYELIDS,TRUE,,,,,OMMROSSPPEFAP0267,880,,Eye lids,EA,12,-,-,UDYOGI,18,"39269099
+",Eye lids,CE,Eye lids,Eye lids MAKE UDYOGI SHOWER ACCESSORIES MODEL 7904 EYELIDS,,
+6179,FACE PROTECTION,Cargill,,"Nose Twitch
+(Rope Halter)",TRUE,,,,,OMMROSSPPEFAP0268,6,,Nose Twitch,EA,12,-,-,INDIAN,18,42010000,Nose Twitch,CE,"Nose Twitch
+(Rope Halter)","Nose Twitch
+(Rope Halter)",BOP,
+6180,EMERGENCY EQUIPMENTS,Cargill,,"Thermoplast painting Zebra
+Crossing work white colour only",TRUE,,,,,OMMROSSPPE0269,110,,Road marking painting,EA,12,-,-,OM IND,18,32099090,Road marking painting,NILL,"Thermoplast painting Zebra
+Crossing work","Thermoplast painting Zebra
+Crossing work white colour only",EME,
+6181,EMERGENCY EQUIPMENTS,Cargill,,"Thermoplast painting Zebra all colours than white 
+Crossing work",TRUE,,,,,OMMROSSPPE0270,130,,Road marking painting,EA,12,-,-,OM IND,18,32099090,Road marking painting,nill,"Thermoplast painting Zebra
+Crossing work","Thermoplast painting Zebra all colours than white 
+Crossing work",EME,
+6182,EMERGENCY EQUIPMENTS,Cargill,,"Pedestrain Boom
+barrier",TRUE,,,,,OMMROSSPPE0272,26250,,"Boom
+barrier",EA,12,-,-,IMPORTED,18,"85437099
+","Boom
+barrier",CE,"Pedestrain Boom
+barrier","Pedestrain Boom
+barrier",EME,
+6183,EMERGENCY EQUIPMENTS,Cargill,,pin Out type MCB lock,TRUE,,,,,OMMROSSPPE0274,90,,MCB lock,EA,12,-,-,SAFETY HOUSE,18,73084000,MCB lock,CE,pin out type MCB lock,pin Out type MCB lock,BOP,
+6184,EMERGENCY EQUIPMENTS,Cargill,,"universal circket
+breaker lockout",TRUE,,,,,OMMROSSPPE0275,115,,BREAKER LOCKOUT,EA,12,-,-,SAFETY HOUSE,18,83011000,BREAKER LOCKOUT,CE,"universal circket
+breaker lockout","universal circket
+breaker lockout",BOP,
+6185,EMERGENCY EQUIPMENTS,Cargill,,"CLEANING WIPERS
+TISSUE USED IN KANDLA AND NELLOERE",TRUE,,,,,OMMROSSPPE0277,4,,"CLEANING WIPERS
+TISSUE",EA,12,-,-,ISI STANDARD,5,63071010,"CLEANING WIPERS
+TISSUE",CE,COTTON WASTE,"CLEANING WIPERS
+TISSUE USED IN KANDLA AND NELLOERE",BOP,20000018724
+6186,EMERGENCY EQUIPMENTS,Cargill,,Helmet Mounted torch MAKE TRIDENT 61050,TRUE,,,,,OMMROSSPPE0278,4800,,TORCH,EA,12,-,-,TRIDENT,18,85131010,TORCH,CE,Helmet Mounted torch,Helmet Mounted torch MAKE TRIDENT 61050,,
+6187,EMERGENCY EQUIPMENTS,Cargill,,Mannequin wiithout PPE MAKE UDYOGI,TRUE,,,,,OMMROSSPPE0280,6500,,Mannequin,EA,12,-,-,INDIAN ,18,96180000,Mannequin,CE,Mannequin,Mannequin wiithout PPE MAKE UDYOGI,,
+6188,EMERGENCY EQUIPMENTS,Cargill,,FIRE EXTINGUISHER ABC 4 KG IS STANDARD,TRUE,,,,,OMMROSSPPE0281,850,,FIRE EXTINGUISHER ,EA,12,-,-,ISI STANDARD,18,84241000,FIRE EXTINGUISHER ,CE,FIRE EXTINGUISHER ,FIRE EXTINGUISHER ABC 4 KG IS STANDARD,,
+6189,EMERGENCY EQUIPMENTS,Cargill,,"PRESSURE GUAGE
+0-450 PSI 2IN",,,,,,OMMROSSPPE0282,594,,Pressure guage,EA,12,-,-,ISI STANDARD,18,90262000,Pressure guage,CE,Pressure guage for fire hydrant line,"PRESSURE GUAGE
+0-450 PSI 2IN",,20000016191
+6190,EMERGENCY EQUIPMENTS,Cargill,,RRL hose MAKE  New Age with male female coupling Gun Metal,,,,,,OMMROSSPPE0283,3375,,"FIRE HOSE PIPE
+63X15M",EA,12,-,-,ISI STANDARD,18,90262001,"FIRE HOSE PIPE
+63X15M",CE,FIRE HOSE PIPE,RRL hose MAKE  New Age with male female coupling Gun Metal,,20000004508
+6191,EMERGENCY EQUIPMENTS,Cargill,,"Nozzle for hose reel 1"" stainless steel",,,,,,OMMROSSPPE0284,430,,"FIRE FIGHTING
+HOSE REEL 42798",EA,12,-,-,ISI STANDARD,18,84241000,"FIRE FIGHTING
+HOSE REEL 42798",CE,"FIRE FIGHTING
+HOSE REEL","Nozzle for hose reel 1"" stainless steel",,20000017089
+6192,EMERGENCY EQUIPMENTS,Cargill,,Safety shower For bottom DRENCH SHOWER HEAD MAKE UDYOGI MODEL 7902,,,,,,OMMROSSPPE0285,880,,DRENCH SHOWER HEAD,EA,12,-,-,UDYOGI,18,84248990,DRENCH SHOWER HEAD,CE,"DRENCH SHOWER
+HEAD",Safety shower For bottom DRENCH SHOWER HEAD MAKE UDYOGI MODEL 7902,,20000004021
+6193,EMERGENCY EQUIPMENTS,Cargill,,"FIRE EXTINGUISHER
+REFILLED 5KG ABC",,,,,,OMMROSSPPE0286,1365,,FIRE EXTINGUISHER,EA,12,-,-,ISI STANDARD,18,84241000,FIRE EXTINGUISHER,CE,"FIRE EXTINGUISHER
+REFILLED 5KG ABC","FIRE EXTINGUISHER
+REFILLED 5KG ABC",,20000015528
+6194,EMERGENCY EQUIPMENTS,Cargill,,FIRE EXT M FOAM 9 LTR MAKE SAFETYPRO,,,,,,OMMROSSPPE0287,1313,,FIRE EXTINGUISHER,EA,12,-,-,ISI STANDARD,18,84241000,FIRE EXTINGUISHER,CE,FIRE EXT M FOAM 9 LTR,FIRE EXT M FOAM 9 LTR MAKE SAFETYPRO,,20000007435
+6195,EMERGENCY EQUIPMENTS,Cargill,,"SS BALL VALVE FLANGE END SIZE 1"" /25 NB",,,,,,OMMROSSPPE0288,794,,BALL VALVE FLANGE,EA,12,-,-,ISI STANDARD,18,84818090,BALL VALVE FLANGE,CE,"BALL VALVE FLANGE
+END SS 1IN /25 NB","SS BALL VALVE FLANGE END SIZE 1"" /25 NB",,20000007917
+6196,EMERGENCY EQUIPMENTS,Cargill,,"ABC 2 KG FE
+WITH STAND",,,,,,OMMROSSPPE0289,1092,,FIRE EXTINGUISHER,EA,12,-,-,ISI STANDARD,18,84241000,FIRE EXTINGUISHER,CE,"ABC 2 KG FE
+WITH STAND","ABC 2 KG FE
+WITH STAND",,
+6197,EMERGENCY EQUIPMENTS,Cargill,,Cotton Dangi WITH 3M TAPE 2 inch ,,,,,,OMMROSSPPE0290,780,,Cotton Dangri,EA,12,-,-,ISI STANDARD,12,62113200,Cotton Dangri,CE,Cotton Dangri,Cotton Dangi WITH 3M TAPE 2 inch ,,
+6198,EMERGENCY EQUIPMENTS,Cargill,,"PC LAMP for
+boom barrier",,,,,,OMMROSSPPE0291,850,,"PC LAMP for
+boom barrier",EA,12,-,-,CE,18,85414090,"PC LAMP for
+boom barrier",CE,"PC LAMP for
+boom barrier","PC LAMP for
+boom barrier",,
+6199,HAND PROTECTION,Cargill,,"Welding
+gloves MAKE Spartan length 14 inch colour red, yellow or white degree 150 ",,,,,,OMMROSSPPEHAP0292,280,,HAND GLOVES,EA,12,-,-,SPARTAN,18,40159030,HAND GLOVES,CE,"Welding
+gloves","Welding
+gloves MAKE Spartan length 14 inch colour red, yellow or white degree 150 ",,
+6200,FACE PROTECTION,Cargill,,"Dust mask -
+make karam
+RFH01
+FFP1 masks",,,,,,OMMROSSPPEFAP0294,11,,DUST MASK,EA,12,-,-,KARAM,5,63079090,DUST MASK,CE,"Dust mask -
+make karam
+RFH01
+FFP1 masks","Dust mask -
+make karam
+RFH01
+FFP1 masks",,
+6201,EMERGENCY EQUIPMENTS,Cargill,,"""ALC-CLSL Single sided Loop cable -
+Length 1 meter LOTO Rope""",,,,,,OMMROSSPPE0295,180,,"Single
+sided Loop cable",EA,12,-,-,LOTO SAFETY HOUSE,18,90181990,"Single
+sided Loop cable",CE,"Single
+sided Loop cable","""ALC-CLSL Single sided Loop cable -
+Length 1 meter LOTO Rope""",,
+6202,EMERGENCY EQUIPMENTS,Cargill,,"""Ball valves lock 2 ALC-VLBSS Ball
+Valve Lockout Device - for the diamaters
+9.5 mm to 31.5 mm, with or without side
+extension """,,,,,,OMMROSSPPE0296,220,,Ball valve,EA,12,-,-,SAFETY HOUSE,18,84818090,Ball valve,CE,Ball valves lock 2 ALC-VLBSS Ball,"""Ball valves lock 2 ALC-VLBSS Ball
+Valve Lockout Device - for the diamaters
+9.5 mm to 31.5 mm, with or without side
+extension """,,
+6203,EMERGENCY EQUIPMENTS,Cargill,,"Ball valves lock 4"" ALC-VLBM Ball Valve Locout Device - double leg upto
+diameter 11?2"" - 21?2",,,,,,OMMROSSPPE0297,220,,Ball valve,EA,12,-,-,SAFETY HOUSE,18,84818090,Ball valve,CE,"Ball valves lock 4"" ALC-VLBM Ball Valve","Ball valves lock 4"" ALC-VLBM Ball Valve Locout Device - double leg upto
+diameter 11?2"" - 21?2",,
+6204,HEAD PROTECTION,Cargill,,Safety Helmet Model Linning Nape Make Udyogi,,,,,,OMMROSSPPEHAP0298,125,,Safety Helmet Linning Nape,EA,12,-,-,UDYOGI,18,65061090,Safety Helmet Linning Nape,CE,Safety Helmet Linning Nape,Safety Helmet Model Linning Nape Make Udyogi,,
+6205,CONFINED SPACE EQUIPMENTS,Cargill,,"Altair 5X with LEL, O2, CO-H2S with In-built Pump, 10 ft.
+S. Line <(>&<)> 1 ft. Probe, battery <(>&<)> Charger with warranty for
+machine and sensors",,,,,,OMMROSSPPECSE0299,198000,,"Altair 5X with LEL, O2
+CO-H2S with In-bu",EA,12,-,-,MSA,18,90271000,"Altair 5X with LEL, O2
+CO-H2S with In-bu",CE,Altair 5X,"Altair 5X with LEL, O2, CO-H2S with In-built Pump, 10 ft.
+S. Line <(>&<)> 1 ft. Probe, battery <(>&<)> Charger with warranty for
+machine and sensors",,
+6206,FALL PROTECTION,Cargill,,"""IKA R ABS3Awh
+Controlled Descent Device"" MAKE IKAR MADE IN GERMANY",,,,,,OMMROSSPPEFLP0300,94500,,"FALL ARRESTER
+FOR FULL BODY
+HARNESS",EA,12,-,-,IKAR,12,63072090,"FALL ARRESTER
+FOR FULL BODY
+HARNESS",CE,"""IKA R ABS3Awh","""IKA R ABS3Awh
+Controlled Descent Device"" MAKE IKAR MADE IN GERMANY",,20000017096
+6207,EMERGENCY EQUIPMENTS,Cargill,,"SAFETY SHOWER SS MATERIAL MAKE UDYOGI SHOWER
+CUM EYE WASH (HAND/FOOT OPERATED) STANDARD: IS
+10592:2018 Meets ANSI Z358.1",,,,,,OMMROSSPPE0301,29500,,SAFTY SHOWER,EA,12,-,-,UDYOGI,18,73242900,SAFTY SHOWER,CE,SS MATERIAL,"SAFETY SHOWER SS MATERIAL MAKE UDYOGI SHOWER
+CUM EYE WASH (HAND/FOOT OPERATED) STANDARD: IS
+10592:2018 Meets ANSI Z358.1",,20000002399
+6208,EMERGENCY EQUIPMENTS,Cargill,,"Martor make - Secumax 320
+NO. 32000110",,,,,,OMMROSSPPE0303,1152,,SAFETY KNIFE,EA,12,-,-,Martor make ,18,82119200,SAFETY KNIFE,CE,Secumax 320,"Martor make - Secumax 320
+NO. 32000110",,
+6209,EMERGENCY EQUIPMENTS,Cargill,,"INDUSTRIAL BLADE
+NO 92043 Martor make",,,,,,OMMROSSPPE0304,909,,INDUSTRIAL BLADE,EA,12,-,-,Martor make ,18,82119400,INDUSTRIAL BLADE,CE,MARTOR,"INDUSTRIAL BLADE
+NO 92043 Martor make",,
+6210,EMERGENCY EQUIPMENTS,Cargill,,"CONVEX
+MIRROR,
+60 CM MOQ 4 NOS ",,,,,,OMMROSSPPE0305,1683,,"CONVEX
+MIRROR",EA,12,-,-,AXNOY,18,39269080,"CONVEX
+MIRROR",CE,60CM,"CONVEX
+MIRROR,
+60 CM MOQ 4 NOS ",,
+6211,EMERGENCY EQUIPMENTS,Cargill,,"CONVEX
+MIRROR,
+80 CM",,,,,,OMMROSSPPE0306,2500,,"CONVEX
+MIRROR",EA,12,-,-,AXNOY,18,39269080,"CONVEX
+MIRROR",CE,80CM,"CONVEX
+MIRROR,
+80 CM",,
+6212,FOOT PROTECTION,Cargill,,"Gents Safety
+shoes size-9(Hillson
+mirage",,,,,,OMMROSSPPEFOP0309,910,,SAFETY SHOES,EA,12,-,-,HILLSON,18,64034000,SAFETY SHOES,CE,MIRAGE,"Gents Safety
+shoes size-9(Hillson
+mirage",,
+6213,HAND PROTECTION,Cargill,,"HAND GLOVES UTILITY 0.70mm thickness Neoprene over Natural Rubber Flocklined 
+Gloves, 300mm lenght, Bi-Colour Blue on Yellow, Grip 
+Honeycomb,SIZE-10
+ EN 388:2016 - 2110X
+ EN ISO 374-1: 2016 /Type A - AKLMNPST",,,,,,OMMROSSPPEHAP0310,100,,HAND GLOVES,EA,12,-,-,DPL,18,40151900,HAND GLOVES,EN,"CONQUEROR II
+ 322C-70.30  BY","HAND GLOVES UTILITY 0.70mm thickness Neoprene over Natural Rubber Flocklined 
+Gloves, 300mm lenght, Bi-Colour Blue on Yellow, Grip 
+Honeycomb,SIZE-10
+ EN 388:2016 - 2110X
+ EN ISO 374-1: 2016 /Type A - AKLMNPST",,
+6214,EMERGENCY EQUIPMENTS,Cargill,,"Hand operated
+siren -
+KHERAJ 1 KM",,,,,,OMMROSSPPE0312,8196,,"Hand operated
+siren",EA,12,-,-,KHERAJ,18,85311020,"Hand operated
+siren",CE,1KM MEGAPHONE,"Hand operated
+siren -
+KHERAJ 1 KM",,
+6215,EMERGENCY EQUIPMENTS,Cargill,,"Electric Motor Siren Ideal Audible Range (Diametrical): 1.0 Kms, PC-
+MS-1S[1]100",,,,,,OMMROSSPPE0313,3600,,"Electric
+motor siren",EA,12,-,-,KHERAJ,18,85311020,"Electric
+motor siren",CE,SIREN,"Electric Motor Siren Ideal Audible Range (Diametrical): 1.0 Kms, PC-
+MS-1S[1]100",,
+6216,EMERGENCY EQUIPMENTS,Cargill,,FOLDING PLATFORM LADDER ACCURATE LADDERS GLASS STEP LADDER LENGTH 5 FOOR,,,,,,OMMROSSPPE0314,28000,,ALUMINIUM LADDER,EA,12,-,-,PERFECT LADDERS,18,76169990,ALUMINIUM LADDER,ISI,5FOOT PLATFORM ,FOLDING PLATFORM LADDER ACCURATE LADDERS GLASS STEP LADDER LENGTH 5 FOOR,,20000015257
+6217,EMERGENCY EQUIPMENTS,Cargill,,"FIRE EXTINGUISHER
+REFILLED 5KG ABC",,,,,,OMMROSSPPE0315,914,,FIRE EXTINGUISHER,EA,12,-,-,SAFETPRO,18,84241000,FIRE EXTINGUISHER,ISI,5KG ABC,"FIRE EXTINGUISHER
+REFILLED 5KG ABC",,20000015528
+6218,FALL PROTECTION,Cargill,,"Tango 2 Double  Polyamide rope  
+with Shock absorber & SH 60 
+Scaffolding Hoo",,,,,,OMMROSSPPE0316,2090,, Safety Harness,EA,12,-,-,UDYOGI,12,63072090, Safety Harness,CE,TANGO2SHA P60,"Tango 2 Double  Polyamide rope  
+with Shock absorber & SH 60 
+Scaffolding Hoo",,
+6219,EMERGENCY EQUIPMENTS,Cargill,,"SMALL PRINZING
+BALL VALVE
+LOCKOUT",,,,,,OMMROSSPPE0319,128,,"BALL VALVE
+LOCKOUT",EA,12,-,-,LOTO SAFETY HOUSE,18,84818090,"BALL VALVE
+LOCKOUT",CE,BALL VALVE,"SMALL PRINZING
+BALL VALVE
+LOCKOUT",,20000016781
+6220,EMERGENCY EQUIPMENTS,Cargill,,MSA GAS DETECTION CHARGER,,,,,,OMMROSSPPE0320,14000,,Gas detector charger,EA,12,-,-,MSA,18,85041020,Gas detector charger,CE,MSA CHARGER ,MSA GAS DETECTION CHARGER,,
+6221,BODY PROTECTION,Cargill,,PVC APRON,,,,,,OMMROSSPPEBOP0322,110,,PVC APRON,EA,12,-,-,UDYOGI,18,42034010,PVC APRON,CE,PVC 24X36 WITH BUCKLE APRON,PVC APRON,,
+6222,EMERGENCY EQUIPMENTS,Cargill,,"NON SPARKING FIX
+SPANNER SIZE:
+25X28",,,,,,OMMROSSPPE0323,9280,,"NON SPARKING FIX
+SPANNER ",EA,12,-,-,GERM,18,82041110,"NON SPARKING FIX
+SPANNER ",CE,25X28 NON SPARK,"NON SPARKING FIX
+SPANNER SIZE:
+25X28",,20000017522
+6223,EMERGENCY EQUIPMENTS,Cargill,,"Hydrotesting and Refilling of
+SCBA",,,,,,OMMROSSPPE0324,35000,,SCBA ,EA,12,-,-,INDIAN,18,84219900,SCBA ,CE,TESTING,"Hydrotesting and Refilling of
+SCBA",,
+6224,EMERGENCY EQUIPMENTS,Cargill,,"8.8 GALLON SPILL
+KITS CETK10 - 10L Economy Chemical Spill Kit in Transparent Bag",,,,,,OMMROSSPPE0325,2180,,"SPILL
+KIT",EA,12,-,-,UDYOGI ,18,39269099,"SPILL
+KIT",CE,10L,"8.8 GALLON SPILL
+KITS CETK10 - 10L Economy Chemical Spill Kit in Transparent Bag",,20000043815
+6225,EMERGENCY EQUIPMENTS,Cargill,,"Dissipative
+Mat (Sqm)",,,,,,OMMROSSPPE0326,880,,"Dissipative
+Mat (Sqm)",EA,12,-,-,IMPORTED,18,39181090,"Dissipative
+Mat (Sqm)",CE,ESD Mat Gray,"Dissipative
+Mat (Sqm)",,
+6226,EMERGENCY EQUIPMENTS,Cargill,,Discharge Pole,,,,,,OMMROSSPPE0327,7338,,Discharge Pole,EA,12,-,-,IMPORTED,18,73269099,Discharge Pole,CE,Static Discharge Pole Z2052,Discharge Pole,,
+6227,EAR PROTECTION,Cargill,,EAR MUFF MSA ,,,,,,OMMROSSPPE0328,2400,,EAR MUFLER,EA,12,-,-,MSA,18,40169970,EAR MUFLER,CE,MSA XLS Ear Muff,EAR MUFF MSA ,,20000005202
+6228,CONFINED SPACE EQUIPMENTS,Cargill,,"CONFINED SPACE ENTRY KIT - TRIPOD AND WINCH  MAKE UDYOGI TRIPOD WITH FULLY ADJUSTABLE TELESCOPIC LEGS, 
+ADJUSTABLE HEIGHT   1.40 m to 2.10 m
+ PACKED IN TRIPOD BAG WITH SPARE 10 MTR WINC",,,,,,OMMROSSPPECSE0329,68000,,FALL AERASTOR,EA,12,-,-,UDYOGI,18,84251910,FALL AERASTOR,CE,UDYOGI TRIPOD WITH SPARE 10 MTR WINC,"CONFINED SPACE ENTRY KIT - TRIPOD AND WINCH  MAKE UDYOGI TRIPOD WITH FULLY ADJUSTABLE TELESCOPIC LEGS, 
+ADJUSTABLE HEIGHT   1.40 m to 2.10 m
+ PACKED IN TRIPOD BAG WITH SPARE 10 MTR WINC",,20000002730
+6229,FACE PROTECTION,Cargill,,COTTON MASK BLACK COLOUR ,,,,,,OMMROSSPPEFAP0331,18,,"NOSE MASK FOR
+PAINTING",EA,12,-,-,MAFATLAL,5,90200000,"NOSE MASK FOR
+PAINTING",CE,BLACK MASK COTTON,COTTON MASK BLACK COLOUR ,,20000018139
+6230,EMERGENCY EQUIPMENTS,Cargill,,"ESFR K-360(25), QR,EC, Upright,25mm,74deg,Brass Finish, UL FM Approved",,,,,,OMMROSSPPE0332,2178,,"SPRINKLER
+NOZZLES",EA,12,-,-,UL,18,84799010,"SPRINKLER
+NOZZLES","FM,CE",K360,"ESFR K-360(25), QR,EC, Upright,25mm,74deg,Brass Finish, UL FM Approved",,20000017687
+6231,EMERGENCY EQUIPMENTS,Cargill,,"K-115(8.0),SR,SC, Upright,68deg,20mm,Chrome Finish, UL FM Approved.",,,,,,OMMROSSPPE0333,432,,"SPRINKLER
+NOZZLES",EA,12,-,-,UL,18,84799010,"SPRINKLER
+NOZZLES",FM,K115,"K-115(8.0),SR,SC, Upright,68deg,20mm,Chrome Finish, UL FM Approved.",,20000017687
+6232,EMERGENCY EQUIPMENTS,Cargill,,"HAND SANITIZER
+BLUE LIQUID 1L
+BOTTLE",,,,,,OMMROSSPPE0335,135,,HAND SANITIZER,EA,12,-,-,INDIAN,18,38089400,HAND SANITIZER,ISI,1 LIT,"HAND SANITIZER
+BLUE LIQUID 1L
+BOTTLE",,20000014028
+6233,EMERGENCY EQUIPMENTS,Cargill,,"FIRE BLANKET
+1.2X1.8M WITH
+POUCH",,,,,,OMMROSSPPE0337,1570,,FIRE BLANKET,EA,12,-,-,UDYOGI,18,70199090,FIRE BLANKET,CE,UDYOGI FB,"FIRE BLANKET
+1.2X1.8M WITH
+POUCH",,20000006014
+6234,BODY PROTECTION,Cargill,,40 GSM CLOTH APRON DISPOSABLE,,,,,,OMMROSSPPEBOP0338,80,,APPRON,EA,12,-,-,INDIAN,18,42034010,APPRON,ISI,ISI,40 GSM CLOTH APRON DISPOSABLE,,20000002290
+6235,EMERGENCY EQUIPMENTS,Cargill,,Digital Thermometre,,,,,,OMMROSSPPE0341,120,,Digital Thermometre,EA,12,-,-,BPL,18,90251910,Digital Thermometre,CE,BPL,Digital Thermometre,,
+6236,EMERGENCY EQUIPMENTS,Cargill,,Ammonia Detactor MSA MAKE ,,,,,,OMMROSSPPE0342,53000,,Ammonia Detactor,EA,12,-,-,MSA,18,90271000,Ammonia Detactor,CE,MSA Altair 4XR Multigas Detector,Ammonia Detactor MSA MAKE ,,
+6237,EMERGENCY EQUIPMENTS,Cargill,,Hydrogen Detector MSA MAKE,,,,,,OMMROSSPPE0343,53000,,Hydrogen Detector,EA,12,-,-,MSA,18,90271000,Hydrogen Detector,CE,MSA Altair 4XR Multigas Detector,Hydrogen Detector MSA MAKE,,
+6238,EMERGENCY EQUIPMENTS,Cargill,,Pulse oxymeter to detect Oxygen level in human body (SpO2),,,2,,,OMMROSSPPE0345,1888,,"PUMP OF OXYGEN
+DETECTOR",EA,12,-,-,OMRON,18,"84141000
+","PUMP OF OXYGEN
+DETECTOR",CE,OMRON PULSE OXYMETER,Pulse oxymeter to detect Oxygen level in human body (SpO2),,20000017719
+6239,FACE PROTECTION,Cargill,,"WELDING FACE
+SHIELD",,,2,,,OMMROSSPPEFAP0349,1480,,FACE SHIELD,EA,12,-,-,UDYOGI,18,39269099,FACE SHIELD,CE,FC100,"WELDING FACE
+SHIELD",,20000006709
+6240,FALL PROTECTION,Cargill,,"SPARE LANYARD
+FOR SAFETY
+HARNESS",,,,,,OMMROSSPPEFAP0350,1853,,"SPARE LANYARD FOR SAFETY
+HARNESS",EA,12,-,-,UDYOGI ,18,"84099192
+","SPARE LANYARD FOR SAFETY
+HARNESS",CE,UB102 UDYOGI ,"SPARE LANYARD
+FOR SAFETY
+HARNESS",,20000016365
+6241,EMERGENCY EQUIPMENTS,Cargill,,Dual colour Trac lights,,,,,,OMMROSSPPE0353,6315,,Dual colour Trac lights,EA,12,-,-,CE APPORVED,18,94054090,Dual colour Trac lights,CE,TRAFFIC LIGHT,Dual colour Trac lights,,
+6242,EMERGENCY EQUIPMENTS,Cargill,,"Dual colour pedestrain
+lights",,,,,,OMMROSSPPE0354,6111,,"Dual colour pedestrain
+lights",EA,12,-,-,CE APPORVED,18,85177090,"Dual colour pedestrain
+lights",CE,"Dual colour pedestrain
+lights","Dual colour pedestrain
+lights",,
+6243,FALL PROTECTION,Cargill,,"PVC eye for safety
+harness UDYOGI BELT",,,,,,OMMROSSPPE0356,47,,"PVC eye for safety
+harness Karam Belt",EA,12,-,-,UDYOGI,18,63072090,"PVC eye for safety
+harness Karam Belt",CE,PVC EYE ,"PVC eye for safety
+harness UDYOGI BELT",,
+6244,EMERGENCY EQUIPMENTS,Cargill,,"CO2 FIRE EXT
+ 4.5 KG MAKE SAFETPRO",,,,,,OMMROSSPPE0357,4180,,GUM BOOT,EA,12,-,-,SAFETYPRO,18,84241000,GUM BOOT,CE,CO24.5KG,"CO2 FIRE EXT
+ 4.5 KG MAKE SAFETPRO",,20000017453
+6245,FALL PROTECTION,Cargill,,"CRESTO SMART LINE X FLAME RETARDANT PERSONAL RESCUE 
+DEVICE (5.5MM DIA ARAMID ROPE 50TR LONG, LOAD CAPACITY 
+140 KGS, CAN WITHSTAND > 450 DEGREES, WEIGHS 2.25KG, EN 
+341:2011 CERTIFIED) WITH ANCHORAGE SLING ANDD 
+CARABINER PACKED IN RED BAG",,,,,,OMMROSSPPE0358,87400,,RESCUE KIT ELEVATED - Smartline X MAKE IKAR MADE IN GERMANY,EA,12,-,-,IKAR MADE IN GERMANY,18,62011390,RESCUE KIT ELEVATED - Smartline X MAKE IKAR MADE IN GERMANY,CE,ELEVATED WORK RESCUE KIT ,"CRESTO SMART LINE X FLAME RETARDANT PERSONAL RESCUE 
+DEVICE (5.5MM DIA ARAMID ROPE 50TR LONG, LOAD CAPACITY 
+140 KGS, CAN WITHSTAND > 450 DEGREES, WEIGHS 2.25KG, EN 
+341:2011 CERTIFIED) WITH ANCHORAGE SLING ANDD 
+CARABINER PACKED IN RED BAG",,20000018171
+6246,CONFINED SPACE EQUIPMENTS,Cargill,,"UDK02-100 ROPE ACCESS RESCUE KIT CONSISTS OF 
+*DESCENDER - 1NO.
+ *FALL ARRESTER UB 2005SS - 1NO.
+ *KERNMENTAL ROPE 10.5 MM 100MTR LENGTH - 1NO. 
+*POLYAMIDE ROPE 14MM 100MTR LENGTH - 1NO.
+ *ULTRATEK HARNESS WITH BL22 LANYARD AND PL02 WORK 
+POSITIONING LANYARD - 1NO. 
+*EASY309 CARABINER - 3NOS
+ *ANCHORAGE SLING 2 MTR LENGTH - 2NOS
+ *COWTAIL LANYARD - 1NO.
+ *ABRSSION ROPE CUTTER - 1NO. INSIDE ONE KIT BAG",,,,,,OMMROSSPPECSE0359,47500,,"UDK02-100 
+ROPE ACCESS RESCUE KIT 
+100M",EA,12,-,-,UDYOGI,18,90069100,"UDK02-100 
+ROPE ACCESS RESCUE KIT 
+100M",EN,"UDK02-100 
+ROPE ACCESS RESCUE KIT 
+100M","UDK02-100 ROPE ACCESS RESCUE KIT CONSISTS OF 
+*DESCENDER - 1NO.
+ *FALL ARRESTER UB 2005SS - 1NO.
+ *KERNMENTAL ROPE 10.5 MM 100MTR LENGTH - 1NO. 
+*POLYAMIDE ROPE 14MM 100MTR LENGTH - 1NO.
+ *ULTRATEK HARNESS WITH BL22 LANYARD AND PL02 WORK 
+POSITIONING LANYARD - 1NO. 
+*EASY309 CARABINER - 3NOS
+ *ANCHORAGE SLING 2 MTR LENGTH - 2NOS
+ *COWTAIL LANYARD - 1NO.
+ *ABRSSION ROPE CUTTER - 1NO. INSIDE ONE KIT BAG",,20000040698
+6247,FOOT PROTECTION,Cargill,,Allen cooper safety shoes,,,,,,OMMROSSPPEFOP0361,1350,,SAFETY SHOES,EA,12,-,-,ALLEN COOPER ,18,64034000,SAFETY SHOES,ISI,AC1298,Allen cooper safety shoes,,20000007396
+6248,EMERGENCY EQUIPMENTS,Cargill,,BREATH ANALYZER made in Taiwan,,,,,,OMMROSSPPE0362,4500,,BREATH ANALYZER,EA,12,-,-,BREATH ANALYZER TAIWAN,18,90278090,BREATH ANALYZER,CE,BA,BREATH ANALYZER made in Taiwan,,
+6249,FALL PROTECTION,Cargill,,"Aluminium Platform
+Ladders 8 feet",,,,,,OMMROSSPPE0363,35000,,"Aluminium Platform
+Ladders",EA,12,-,-,PERFECT LADDERS ,18,76169990,"Aluminium Platform
+Ladders",ISI,PLATFORM 8FOOT LADDER,"Aluminium Platform
+Ladders 8 feet",,
+6250,BODY PROTECTION,Cargill,,"Kit Inclusion Jacket , Pant , Balaclava,
+ ARC Flash Gloves ,8 Cal Face Shield, Helemt 
+(ASTM 1506, ASTM F1959,  ASTM F2621,  IEC 
+61482-2, EN 1149-5,   EN ISO 11612,  ASTM 
+F2178, NFPA 2112, NFPA 70E, UL MANIKIN)",,,,,,OMMROSSPPEBOP0364,19000,,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,EA,12,-,-,UDYOGI,18,85364900,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,EN ASTM NFPA,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,"Kit Inclusion Jacket , Pant , Balaclava,
+ ARC Flash Gloves ,8 Cal Face Shield, Helemt 
+(ASTM 1506, ASTM F1959,  ASTM F2621,  IEC 
+61482-2, EN 1149-5,   EN ISO 11612,  ASTM 
+F2178, NFPA 2112, NFPA 70E, UL MANIKIN)",,
+6251,BODY PROTECTION,Cargill,,"40I3)
+ BIB Overall pant ,Jacket, ARC flash gloves ,Hood 
+with 40Cal Visor (ASTM 1506, ASTM F1959,  
+ASTM F2621,  IEC 61482-2, EN 1149-5,   EN ISO 
+11612,  ASTM F2178, NFPA 2112",,,,,,OMMROSSPPEBOP0365,43000,,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,EA,12,-,-,UDYOGI,18,85364900,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,EN ASTM NFPA,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,"40I3)
+ BIB Overall pant ,Jacket, ARC flash gloves ,Hood 
+with 40Cal Visor (ASTM 1506, ASTM F1959,  
+ASTM F2621,  IEC 61482-2, EN 1149-5,   EN ISO 
+11612,  ASTM F2178, NFPA 2112",,
+6252,EMERGENCY EQUIPMENTS,Cargill,,"FIRE BUCKETS
+HEAVY DUTY 9LTR",,,,,,OMMROSSPPE0366,280,,"FIRE BUCKETS
+",EA,12,-,-,INDIAN,18,"84241000
+
+","FIRE BUCKETS
+",ISI,FIRE BUCKET,"FIRE BUCKETS
+HEAVY DUTY 9LTR",,20000006738
+6253,EMERGENCY EQUIPMENTS,Cargill,,Metal Detector Pen,,,,,,OMSSPPE0367,178,,"Metal Detector Pen
+",EA,12,-,-,ISI STANDARD,18,"9608101
+","Metal Detector Pen
+",ISI,METAL DETECTOR PEN,Metal Detector Pen,,
+6254,EMERGENCY EQUIPMENTS,Cargill,,"HAND METAL
+DETECTOR",,,,,,OMSSPPE0368,3850,,"HAND METAL
+DETECTOR
+",EA,12,-,-,ISI STANDARD,18,"85437012
+","HAND METAL
+DETECTOR
+",ISI,103CSAMARTH,"HAND METAL
+DETECTOR",,
+6255,EMERGENCY EQUIPMENTS,Cargill,,"MSA Prima XP Fixed Type Gas Detector for measuring of
+O2",,,,,,OMSSPPE0369,85000,,"Oxygen Detector
+",EA,12,-,-,MSA,18,"90271000
+","Oxygen Detector
+",CE,MSA PRIMA OXYGEN DETECTOR ,"MSA Prima XP Fixed Type Gas Detector for measuring of
+O2",,20000018145
+6256,EMERGENCY EQUIPMENTS,Cargill,,"3M 501 Retainer
+for Paint Respirator
+CLE",,,,,,OMSSPPE0370,120,,"3M 501 Retainer for Paint Respirator
+CLE",EA,12,-,-,3M,18,84213990,"3M 501 Retainer for Paint Respirator
+CLE",CE,501,"3M 501 Retainer
+for Paint Respirator
+CLE",,
+6257,EMERGENCY EQUIPMENTS,Cargill,,"Dissipative
+Pad  Dissipative Pad - 
+( Material :3-layer static dissipating surface on Acrylic backing ,Dimensions: Overall – 180 x 200mm,Touch Surface150 x  180mm,Weight : 500 gms,Decay Time :< 2 secs )",,,,,,OMSSPPE0371,1480,,"Dissipative
+Pad",EA,12,-,-,IMPORTED,18,39181090,"Dissipative
+Pad",CE,IMPORTED,"Dissipative
+Pad  Dissipative Pad - 
+( Material :3-layer static dissipating surface on Acrylic backing ,Dimensions: Overall – 180 x 200mm,Touch Surface150 x  180mm,Weight : 500 gms,Decay Time :< 2 secs )",,
+6258,EMERGENCY EQUIPMENTS,Cargill,,"Anti static Mat TECHNICAL INFORMATION
+Governing Specifications: BS 2050 / 1978IS 3462 / 1986
+Material: Homogeneous composition with Black conductive layer
+sandwiched between two antistatic Layers.
+Thickness : 2mm +/-0.1mm
+( 0.5mm sandwiched conductive layer )
+Tensile Strength : More than 25mj/m3
+exceeds
+Flexibility : Does not break or show any Sign of Failure.
+Sound Reduction Factor : 3db for 2mm thickness.
+In flammability : Self extinguishing as per RDSO C – 8515
+Water Absorption: At room temperature for 24 hrs is less than 0.1%.
+Heat Aging Exudation: No surface cracking or Exudation takes place, as per IS:3462-
+1986.
+Standard Supply: 2.0 Mtrs width x approx. 15 Mtrs Running length.
+Dimension Tolerance: +/-5%.",,,,,,OMSSPPE0372,880,,Anti static Mat,EA,12,-,-,IMPORTED,18,85049090,Anti static Mat,CE,IMPORTED,"Anti static Mat TECHNICAL INFORMATION
+Governing Specifications: BS 2050 / 1978IS 3462 / 1986
+Material: Homogeneous composition with Black conductive layer
+sandwiched between two antistatic Layers.
+Thickness : 2mm +/-0.1mm
+( 0.5mm sandwiched conductive layer )
+Tensile Strength : More than 25mj/m3
+exceeds
+Flexibility : Does not break or show any Sign of Failure.
+Sound Reduction Factor : 3db for 2mm thickness.
+In flammability : Self extinguishing as per RDSO C – 8515
+Water Absorption: At room temperature for 24 hrs is less than 0.1%.
+Heat Aging Exudation: No surface cracking or Exudation takes place, as per IS:3462-
+1986.
+Standard Supply: 2.0 Mtrs width x approx. 15 Mtrs Running length.
+Dimension Tolerance: +/-5%.",,
+6259,EMERGENCY EQUIPMENTS,Cargill,,PALM PLATE install static discharge pole so people is able to touch to discharge the static,,,,,,OMSSPPE0374,1490,,PALM PLATE,EA,12,-,-,IMPORTED,18,90318000,PALM PLATE,CE,PALM PLATE,PALM PLATE install static discharge pole so people is able to touch to discharge the static,,
+6260,EMERGENCY EQUIPMENTS,Cargill,,Spark Arrestor big size for truck ,,,,,,OMSSPPE0376,1050,,Spark Arrestor,EA,12,-,-,INDIAN,18,87089200,Spark Arrestor,CE,SPARK ARRESTOR FOR TRUCK ,Spark Arrestor big size for truck ,,
+6261,FACE PROTECTION,Cargill,,SAFETY GOGGLES MAKE UDYOGI MODEL UD 90 ANTIFOG ,,,,,,OMSSPPEFAP0379,75,,"SAFETY
+GOGGLES",EA,12,-,-,UDYOGI,18,"90049090
+","SAFETY
+GOGGLES",CE,UD90 ANTIFOG,SAFETY GOGGLES MAKE UDYOGI MODEL UD 90 ANTIFOG ,,
+6262,EMERGENCY EQUIPMENTS,Cargill,,"Stihl Make
+Battery
+Operated
+Brush Cutter
++ AP 300 Battery
++ AL 300
+Charger
+",,,,,,OMSSPPE0380,56500,,GRASS CUTTER ,EA,12,-,-,SITHIL,18,85075000,GRASS CUTTER ,CE,AP300,"Stihl Make
+Battery
+Operated
+Brush Cutter
++ AP 300 Battery
++ AL 300
+Charger
+",,
+6263,EMERGENCY EQUIPMENTS,Cargill,,"CONVEX
+MIRROR
+32 inches WITH PIPE AND ALL FITTING ",,,,,,OMSSPPE0384,5300,,"CONVEX
+MIRROR",EA,12,-,-,AXNOY,18,39269080,"CONVEX
+MIRROR",CE,32INCH,"CONVEX
+MIRROR
+32 inches WITH PIPE AND ALL FITTING ",,
+6264,EMERGENCY EQUIPMENTS,Cargill,,"A type
+ladder -6 feet MATERIAL FIBER APPORVAL OSHA STANDARD ",,,,,,OMSSPPE0386,2800,,LADDER,EA,12,-,-,PERFECT,18,76169990,LADDER,OSHA,A6FIBER,"A type
+ladder -6 feet MATERIAL FIBER APPORVAL OSHA STANDARD ",,
+6265,BODY PROTECTION,Cargill,,DUPONT COVERALL,,,,,,OMSSPPEBOP0387,340,,DUPONT TVYEK SUIT,EA,12,-,-,DUPONT,12,62113200,DUPONT TVYEK SUIT,CE,DUPONT TVYEK SUIT,DUPONT COVERALL,,
+6266,FOOT PROTECTION,Cargill,,"Safety shoes,
+Lady line ALLEN COOPER
+model 1298",,,,,,OMSSPPEFOP0389,1323,,Safety shoes,EA,12,-,-,ALLEN COOPER ,18,64034000,Safety shoes,CE,LADYLINE 1298,"Safety shoes,
+Lady line ALLEN COOPER
+model 1298",,
+6267,EMERGENCY EQUIPMENTS,Cargill,,"CONVEX
+MIRROR
+100 CM , 40 inch ",,,,,,OMSSPPE0390,4132,,"CONVEX
+MIRROR",EA,12,-,-,AXNOY,18,73269099,"CONVEX
+MIRROR",CE,100CM,"CONVEX
+MIRROR
+100 CM , 40 inch ",,
+6268,EMERGENCY EQUIPMENTS,Cargill,,V-776 ABEK2 CANISTER,,,,,,OMSSPPE0391,638,,V-776 ABEK2 CANISTER,EA,12,-,-,VENUS,12,90200000,V-776 ABEK2 CANISTER,ISI,V-776 CANISTER,V-776 ABEK2 CANISTER,,
+6269,EMERGENCY EQUIPMENTS,Cargill,,V-667 GAS MASK,,,,,,OMSSPPE0392,2688,,V-667 GAS MASK,EA,12,-,-,VENUS,12,90200000,V-667 GAS MASK,ISI,V-667 MASK,V-667 GAS MASK,,
+6270,FALL PROTECTION,Cargill,,6’ Aluminium step Trolley Ladder,,,,,,OMSSPPE0394,42500,,LADDER,EA,12,-,-,PERFECT,18,76169990,LADDER,CE,6'STEP LADDER,6’ Aluminium step Trolley Ladder,,
+6271,EMERGENCY EQUIPMENTS,Cargill,,"60-gallon Safety
+Cabinet for Flammable FM APPROVED ",,,,,,OMSSPPE0395,72000,,"Safety
+Cabinet for Flammable",EA,12,-,-,UDYOGI ,18,73269099,"Safety
+Cabinet for Flammable","FM,CE",FLAMMALBE CABINET 60 GALLON FM APPROVED,"60-gallon Safety
+Cabinet for Flammable FM APPROVED ",,
+6272,HAND PROTECTION,Cargill,,HAND GLOVES 18 Inch for chemical used ,,,,,,OMSSPPEHAP0396,145,,HAND GLOVES,EA,12,-,-,INDIAN STANDARD,18,40159099,HAND GLOVES,CE,18INCH RUBBER GLOVES,HAND GLOVES 18 Inch for chemical used ,,
+6273,EMERGENCY EQUIPMENTS,Cargill,,DCP MS BRACKET,,,,,,OMSSPPE0399,77,,DCP MS BRACKET,EA,12,-,-,INDIAN,18,73269099,DCP MS BRACKET,ISI,BRACKET,DCP MS BRACKET,,20000018001
+6274,EMERGENCY EQUIPMENTS,Cargill,,HAMMER,,,,,,OMSSPPE0400,189,,HAMMER,EA,12,-,-,INDIAN,18,82052000,HAMMER,ISI,HAMMER,HAMMER,,20000007817
+6275,EMERGENCY EQUIPMENTS,Cargill,,"S.S. HOSE CLAMP
+1IN",,,,,,OMSSPPE0401,28,,"S.S. HOSE CLAMP
+1IN",EA,12,-,-,INDIAN,18,73182990,"S.S. HOSE CLAMP
+1IN",ISI,SS HOSE CLAMP,"S.S. HOSE CLAMP
+1IN",,20000017564
+6276,EMERGENCY EQUIPMENTS,Cargill,,OTK20 - 20L Only Oil Spill Kit in Transparent Ba,,,,,,OMSSPPE0403,4000,,SPILL KIT,EA,12,-,-,UDYOGI,18,39269099,SPILL KIT,CE,OTK20LIT OIL CHEMICAL SPILL KIT ,OTK20 - 20L Only Oil Spill Kit in Transparent Ba,,
+6277,EMERGENCY EQUIPMENTS,Cargill,,Pamphlet ( Dangler ),,,,,,OMSSPPE0404,20,,DANGLER,EA,12,-,-,OM IND,18,48219090,DANGLER,CE,DANGLER ,Pamphlet ( Dangler ),,
+6278,FACE PROTECTION,Cargill,,Goggle ud 91 make udyogi safety en approved,,,,,,OMSSPPEFAP0405,55,,SAFETY GOGGLE,EA,12,-,-,UDYOGI,18,"90049090
+
+",SAFETY GOGGLE,ANSI CE,UD91 ANTIFOG,Goggle ud 91 make udyogi safety en approved,,
+6279,EMERGENCY EQUIPMENTS,Cargill,,"Radium Roll Size
+1Inch X 45 Mtr Red
+Colo",,,,,,OMSSPPE0406,240,,Radium Roll ,EA,12,-,-,CHINA MADE,18,"48219090 
+
+",Radium Roll ,CE,1INCH,"Radium Roll Size
+1Inch X 45 Mtr Red
+Colo",,
+6280,EMERGENCY EQUIPMENTS,Cargill,,"Radium Roll Size
+2Inch X 45 Mtr Red
+Colo",,,,,,OMSSPPE0407,480,,Radium Roll ,EA,12,-,-,CHINA MADE,18,"48219090 
+
+",Radium Roll ,CE,2INCH,"Radium Roll Size
+2Inch X 45 Mtr Red
+Colo",,
+6281,EMERGENCY EQUIPMENTS,Cargill,,VENUS V4400 N95 MASK ,,,,,,OMSSPPE0413,40,,N95 MASK ,EA,12,-,-,VENUS,5,63071010,N95 MASK ,ISI CE,V4400 WITHOUT VALVE,VENUS V4400 N95 MASK ,,20000006244
