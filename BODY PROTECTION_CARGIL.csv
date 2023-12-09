@@ -1,0 +1,83 @@
+ID,CATEGORY,CLIENT,DELIVERY_TIME,DESCRIPTION,ENABLED,MAKE,MINIMUM_QTY,MINIMUM_QTY_LABEL,PACKAGING_QTY,PART_ID,RATE,SPSC_CODE,TITLE,UOM,LEAD_TIME,MANUFACTURER_NAME,MANUFACTURER_PARTID,BRAND,GST,HSN_SAC_CODE,ITEMS,MINIMUM_CERTIFICATION,MODEL,SPECIFICATION,SUBCATEGORY,MATERIAL_CODE
+6001,BODY PROTECTION,Cargill,,"Durable, comfortable multi-layer chemical barrier, Type 3/4/5 protection.",TRUE,,5,,,OMMROSSPPEBOP0068,1480,,Chemical Protective Suits,EA,12,-,-,Dupoint,18,62101000,Chemical Protective Suits,EN 1149-5 and AATCC 76,tychem c ,"Durable, comfortable multi-layer chemical barrier, Type 3/4/5 protection.",BOP,
+6002,BODY PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEBOP0069,17150,,,EA,12,-,-,,12,62113900,,,"Electrical safety
+
+Honeywell INSKCP8cal / INSKCL8cal arc flash kit. Consisting of FR coverall or Shirt & Pant, Balaclava Hood,
+
+Helmet with Face shield, Eyewear, Kit Bag.
+
+HSN 62034990    ",,BOP,
+6003,BODY PROTECTION,Cargill,,,TRUE,,1,,,OMMROSSPPEBOP0070,47000,,,EA,12,-,-,,12,62113900,,,"Honeywell INSK40cal arc flash kit. Consisting of FR coverall or Shirt & Pant, Balaclava Hood,
+
+Helmet with Face shield, Eyewear, Kit Bag.
+
+HSN 62034990
+",,BOP,
+6004,BODY PROTECTION,Cargill,,,TRUE,,5,,,OMMROSSPPEBOP0071,680,,Boiler suit,EA,12,-,-,Karam,12,,Boiler suit,CE- Category 1,PW 1201,,BOP,
+6005,BODY PROTECTION,Cargill,,Green Reflective Jacket With Cargill Logo (This Workrite vest combines flame resistance and high visibility for improved safety against heat and imrpoved visibility when working in dark conditions),TRUE,,30,,,OMMROSSPPEBOP0072,345,39264049,Green Reflective Jacket,EA,12,-,-,3M,18,39264049,Green Reflective Jacket,"ANSI/ISEA 107-2015 Class 2, Type R",Workrite 349UT70 Vest with logo both side,Green Reflective Jacket With Cargill Logo (This Workrite vest combines flame resistance and high visibility for improved safety against heat and imrpoved visibility when working in dark conditions),,
+6006,BODY PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEBOP0073,88,,,EA,12,-,-,Udyogi,18,39264049,,,,,BOP,
+6007,BODY PROTECTION,Cargill,,,TRUE,,,,,OMMROSSPPEBOP0074,315,,Orange reflective jacket with cargill LOGO,EA,12,-,-,3M tape  manufactuere relfective jacket,,39264049,Orange reflective jacket with cargill LOGO,,,,BOP,
+6008,BODY PROTECTION,Cargill,,,TRUE,,10,,,OMMROSSPPEBOP0075,65,,Orange reflective jacket for workers,EA,12,-,-,Any brand,18,39264049,Orange reflective jacket for workers,,,,BOP,
+6009,BODY PROTECTION,Cargill,,,TRUE,,,,,OMMROSSPPEBOP0076,245,,Welding Apron,EA,12,-,-,local make ,,39264049,Welding Apron,,,,BOP,
+6010,BODY PROTECTION,Cargill,,,TRUE,,2,,,OMMROSSPPEBOP0077,6500,,,EA,12,-,-,Karam,12,39264049,,,,,BOP,
+6011,BODY PROTECTION,Cargill,,"used widely in intense heat, fire, steam and hot liquid",TRUE,,1,,,OMMROSSPPEBOP0078,52400,,Fire man suit,EA,12,-,-,DUPONT ORIGINAL NOMEX FIRE SUIT 3 LAYER COMPLETE SET,18,62032990,Fire man suit, EN-469,,"used widely in intense heat, fire, steam and hot liquid",BOP,20000018101
+6012,BODY PROTECTION,Cargill,,Refractive jacket belt type (only belt type),TRUE,,,,,OMMROSSPPEBOP0200,135,,Refractive jacket,EA,12,-,-,Refractive jacket,5,62011390,Refractive jacket,CE,Refractive jacket belt type,Refractive jacket belt type (only belt type),,
+6013,BODY PROTECTION,Cargill,,"RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI MAKE UDYOGI MODEL RS",TRUE,,,,,OMMROSSPPEBOP0218,21450,,RESCUE STRETCHER,EA,12,-,-,UDYOGI,18,94029090,RESCUE STRETCHER,CE,"RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI","RESCUE
+STRETCHER
+FOR HORI
+ZONATAL
+& VERTI MAKE UDYOGI MODEL RS",,20000004017
+6014,BODY PROTECTION,Cargill,,"Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8",TRUE,,,,,OMMROSSPPEBOP0219,905,,Kidney Tray,EA,12,-,-,INDIAN,18,90189099,Kidney Tray,CE,"Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8","Kidney Tray
+Set of 4 Pcs
+(6"" (150
+mm), 8",,
+6015,BODY PROTECTION,Cargill,,"Streacher
+SR – FS
+make Udyog",TRUE,,,,,OMMROSSPPEBOP0233,4000,,STRETCHER,EA,12,-,-,UDYOGI,18,94029090,STRETCHER,CE,"Streacher
+SR – FS
+make Udyog","Streacher
+SR – FS
+make Udyog",EME,
+6016,BODY PROTECTION,Cargill,,"Washable
+Apron COTTON MATERI : COTTON 100% fabric THICKNESS 220 GSM ISI MARKED ",TRUE,,,,,OMMROSSPPEBOP0240,780,,"Washable
+Apron",EA,12,-,-,INDIAN,18,"42034010
+","Washable
+Apron",CE,"Washable
+Apron","Washable
+Apron COTTON MATERI : COTTON 100% fabric THICKNESS 220 GSM ISI MARKED ",,
+6017,BODY PROTECTION,Cargill,,MOBILZE FOLDBALE STRETCHER MAKE UDYOGI MODEL RSFS,TRUE,,,,,OMMROSSPPEBOP0259,4200,,STRETCHER,EA,12,-,-,UDYOGI,18,94029090,STRETCHER,CE,MOBILZE FOLDBALE STRETCHER,MOBILZE FOLDBALE STRETCHER MAKE UDYOGI MODEL RSFS,BOP,
+6018,BODY PROTECTION,Cargill,,PVC APRON,,,,,,OMMROSSPPEBOP0322,110,,PVC APRON,EA,12,-,-,UDYOGI,18,42034010,PVC APRON,CE,PVC 24X36 WITH BUCKLE APRON,PVC APRON,,
+6019,BODY PROTECTION,Cargill,,40 GSM CLOTH APRON DISPOSABLE,,,,,,OMMROSSPPEBOP0338,80,,APPRON,EA,12,-,-,INDIAN,18,42034010,APPRON,ISI,ISI,40 GSM CLOTH APRON DISPOSABLE,,20000002290
+6020,BODY PROTECTION,Cargill,,"Kit Inclusion Jacket , Pant , Balaclava,
+ ARC Flash Gloves ,8 Cal Face Shield, Helemt 
+(ASTM 1506, ASTM F1959,  ASTM F2621,  IEC 
+61482-2, EN 1149-5,   EN ISO 11612,  ASTM 
+F2178, NFPA 2112, NFPA 70E, UL MANIKIN)",,,,,,OMMROSSPPEBOP0364,19000,,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,EA,12,-,-,UDYOGI,18,85364900,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,EN ASTM NFPA,ARC KNIGHT PRO 8 CAL KIT (AKP180RBK8I,"Kit Inclusion Jacket , Pant , Balaclava,
+ ARC Flash Gloves ,8 Cal Face Shield, Helemt 
+(ASTM 1506, ASTM F1959,  ASTM F2621,  IEC 
+61482-2, EN 1149-5,   EN ISO 11612,  ASTM 
+F2178, NFPA 2112, NFPA 70E, UL MANIKIN)",,
+6021,BODY PROTECTION,Cargill,,"40I3)
+ BIB Overall pant ,Jacket, ARC flash gloves ,Hood 
+with 40Cal Visor (ASTM 1506, ASTM F1959,  
+ASTM F2621,  IEC 61482-2, EN 1149-5,   EN ISO 
+11612,  ASTM F2178, NFPA 2112",,,,,,OMMROSSPPEBOP0365,43000,,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,EA,12,-,-,UDYOGI,18,85364900,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,EN ASTM NFPA,ARC KNIGHT PRO 40 CAL KIT (AKP490NBK40I3,"40I3)
+ BIB Overall pant ,Jacket, ARC flash gloves ,Hood 
+with 40Cal Visor (ASTM 1506, ASTM F1959,  
+ASTM F2621,  IEC 61482-2, EN 1149-5,   EN ISO 
+11612,  ASTM F2178, NFPA 2112",,
+6022,BODY PROTECTION,Cargill,,DUPONT COVERALL,,,,,,OMSSPPEBOP0387,340,,DUPONT TVYEK SUIT,EA,12,-,-,DUPONT,12,62113200,DUPONT TVYEK SUIT,CE,DUPONT TVYEK SUIT,DUPONT COVERALL,,
