@@ -1,0 +1,41 @@
+ 
+
+function getCombinations(digits) {
+  const mobileKeypad = {
+    '2': 'abc',
+    '3': 'def',
+    '4': 'ghi',
+    '5': 'jkl',
+    '6': 'mno',
+    '7': 'pqrs',
+    '8': 'tuv',
+    '9': 'wxyz',
+  };
+
+  function generateCombinations(index, currentCombination) {
+    if (index === digits.length) {
+      combinations.push(currentCombination);
+      return;
+    }
+
+    const currentDigit = digits[index];
+    const letters = mobileKeypad[currentDigit];
+
+    for (const letter of letters) {
+       // console.log(index + 1,currentCombination + letter)
+      generateCombinations(index + 1, currentCombination + letter);
+    }
+  }
+
+  const combinations = [];
+  if (digits) {
+    generateCombinations(0, '');
+  }
+
+  return combinations;
+}
+
+// Example usage:
+console.log(getCombinations('23'));
+// console.log(getCombinations("2"));
+// console.log(getCombinations(""));
